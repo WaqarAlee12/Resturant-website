@@ -1,0 +1,3082 @@
+<!DOCTYPE html>
+<!-- saved from url=(0039)https://themewagon.github.io/yummy-red/ -->
+<html lang="en" foxified=""><script src="chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/content/location/location.js" id="eppiocemhmnlbhjplcgkofciiegomcon"></script><script src="chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/libs/extend-native-history-api.js"></script><script src="chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/libs/requests.js"></script><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <title>Index - Yummy Bootstrap Template</title>
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+
+  <!-- Favicons -->
+  <link href="https://themewagon.github.io/yummy-red/assets/img/favicon.png" rel="icon">
+  <link href="https://themewagon.github.io/yummy-red/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/" rel="preconnect">
+  <link href="https://fonts.gstatic.com/" rel="preconnect" crossorigin="">
+  <link href="./sub-img_files/css2" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="./sub-img_files/bootstrap.min.css" rel="stylesheet">
+  <link href="./sub-img_files/bootstrap-icons.css" rel="stylesheet">
+  <link href="./sub-img_files/aos.css" rel="stylesheet">
+  <link href="./sub-img_files/glightbox.min.css" rel="stylesheet">
+  <link href="./sub-img_files/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Main CSS File -->
+  <link href="./sub-img_files/main.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: Yummy
+  * Template URL: https://bootstrapmade.com/yummy-bootstrap-restaurant-website-template/
+  * Updated: Aug 07 2024 with Bootstrap v5.3.3
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+<script type="text/javascript" src="./sub-img_files/b50b7f30-3efc-40a4-958b-47c84a6ef83f" data-awssuidacr="6bca83fa-eee7-4afa-8183-9b15ba4c3f38"></script><script type="text/javascript" src="./sub-img_files/afde4f0c-4096-4aeb-b345-d1aea539851b"></script></head>
+
+<body class="index-page scrolled" __processed_f400df33-0a55-4cfd-bf7e-a3e887b3f6bc__="true" data-aos-easing="ease-in-out" data-aos-duration="600" data-aos-delay="0">
+
+  <header id="header" class="header d-flex align-items-center sticky-top">
+    <div class="container position-relative d-flex align-items-center justify-content-between">
+
+      <a href="https://themewagon.github.io/yummy-red/index.html" class="logo d-flex align-items-center me-auto me-xl-0">
+        <!-- Uncomment the line below if you also wish to use an image logo -->
+        <!-- <img src="assets/img/logo.png" alt=""> -->
+        <h1 class="sitename">Yummy</h1>
+        <span>.</span>
+      </a>
+
+      <nav id="navmenu" class="navmenu">
+        <ul>
+          <li><a href="https://themewagon.github.io/yummy-red/#hero" class="">Home<br></a></li>
+          <li><a href="https://themewagon.github.io/yummy-red/#about" class="">About</a></li>
+          <li><a href="https://themewagon.github.io/yummy-red/#menu" class="">Menu</a></li>
+          <li><a href="https://themewagon.github.io/yummy-red/#events" class="">Events</a></li>
+          <li><a href="https://themewagon.github.io/yummy-red/#chefs" class="">Chefs</a></li>
+          <li><a href="https://themewagon.github.io/yummy-red/#gallery" class="">Gallery</a></li>
+          <li class="dropdown"><a href="https://themewagon.github.io/yummy-red/#"><span>Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+            <ul>
+              <li><a href="https://themewagon.github.io/yummy-red/#">Dropdown 1</a></li>
+              <li class="dropdown"><a href="https://themewagon.github.io/yummy-red/#"><span>Deep Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+                <ul>
+                  <li><a href="https://themewagon.github.io/yummy-red/#">Deep Dropdown 1</a></li>
+                  <li><a href="https://themewagon.github.io/yummy-red/#">Deep Dropdown 2</a></li>
+                  <li><a href="https://themewagon.github.io/yummy-red/#">Deep Dropdown 3</a></li>
+                  <li><a href="https://themewagon.github.io/yummy-red/#">Deep Dropdown 4</a></li>
+                  <li><a href="https://themewagon.github.io/yummy-red/#">Deep Dropdown 5</a></li>
+                </ul>
+              </li>
+              <li><a href="https://themewagon.github.io/yummy-red/#">Dropdown 2</a></li>
+              <li><a href="https://themewagon.github.io/yummy-red/#">Dropdown 3</a></li>
+              <li><a href="https://themewagon.github.io/yummy-red/#">Dropdown 4</a></li>
+            </ul>
+          </li>
+          <li><a href="https://themewagon.github.io/yummy-red/#contact" class="">Contact</a></li>
+        </ul>
+        <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+      </nav>
+
+      <a class="btn-getstarted" href="https://themewagon.github.io/yummy-red/index.html#book-a-table">Book a Table</a>
+
+    </div>
+  </header>
+
+  <main class="main">
+
+    <!-- Hero Section -->
+    <section id="hero" class="hero section light-background">
+
+      <div class="container">
+        <div class="row gy-4 justify-content-center justify-content-lg-between">
+          <div class="col-lg-5 order-2 order-lg-1 d-flex flex-column justify-content-center">
+            <h1 data-aos="fade-up" class="aos-init aos-animate">Enjoy Your Healthy<br>Delicious Food</h1>
+            <p data-aos="fade-up" data-aos-delay="100" class="aos-init aos-animate">We are team of talented designers making websites with Bootstrap</p>
+            <div class="d-flex aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+              <a href="https://themewagon.github.io/yummy-red/#book-a-table" class="btn-get-started">Booka a Table</a>
+              <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
+            </div>
+          </div>
+          <div class="col-lg-5 order-1 order-lg-2 hero-img aos-init aos-animate" data-aos="zoom-out">
+            <img src="./sub-img_files/hero-img.png" class="img-fluid animated" alt="">
+          </div>
+        </div>
+      </div>
+
+    </section><!-- /Hero Section -->
+
+    <!-- About Section -->
+    <section id="about" class="about section">
+
+      <!-- Section Title -->
+      <div class="container section-title aos-init aos-animate" data-aos="fade-up">
+        <h2>About Us<br></h2>
+        <p><span>Learn More</span> <span class="description-title">About Us</span></p>
+      </div><!-- End Section Title -->
+
+      <div class="container">
+
+        <div class="row gy-4">
+          <div class="col-lg-7 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+            <img src="./sub-img_files/about.jpg" class="img-fluid mb-4" alt="">
+            <div class="book-a-table">
+              <h3>Book a Table</h3>
+              <p>+1 5589 55488 55</p>
+            </div>
+          </div>
+          <div class="col-lg-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="250">
+            <div class="content ps-0 ps-lg-5">
+              <p class="fst-italic">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                magna aliqua.
+              </p>
+              <ul>
+                <li><i class="bi bi-check-circle-fill"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
+                <li><i class="bi bi-check-circle-fill"></i> <span>Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
+                <li><i class="bi bi-check-circle-fill"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</span></li>
+              </ul>
+              <p>
+                Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+                velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident
+              </p>
+
+              <div class="position-relative mt-4">
+                <img src="./sub-img_files/about-2.jpg" class="img-fluid" alt="">
+                <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="glightbox pulsating-play-btn"></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+    </section><!-- /About Section -->
+
+    <!-- Why Us Section -->
+    <section id="why-us" class="why-us section light-background">
+
+      <div class="container">
+
+        <div class="row gy-4">
+
+          <div class="col-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+            <div class="why-box">
+              <h3>Why Choose Yummy</h3>
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
+                Asperiores dolores sed et. Tenetur quia eos. Autem tempore quibusdam vel necessitatibus optio ad corporis.
+              </p>
+              <div class="text-center">
+                <a href="https://themewagon.github.io/yummy-red/#" class="more-btn"><span>Learn More</span> <i class="bi bi-chevron-right"></i></a>
+              </div>
+            </div>
+          </div><!-- End Why Box -->
+
+          <div class="col-lg-8 d-flex align-items-stretch">
+            <div class="row gy-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+
+              <div class="col-xl-4">
+                <div class="icon-box d-flex flex-column justify-content-center align-items-center">
+                  <i class="bi bi-clipboard-data"></i>
+                  <h4>Corporis voluptates officia eiusmod</h4>
+                  <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+                </div>
+              </div><!-- End Icon Box -->
+
+              <div class="col-xl-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
+                <div class="icon-box d-flex flex-column justify-content-center align-items-center">
+                  <i class="bi bi-gem"></i>
+                  <h4>Ullamco laboris ladore lore pan</h4>
+                  <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+                </div>
+              </div><!-- End Icon Box -->
+
+              <div class="col-xl-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="400">
+                <div class="icon-box d-flex flex-column justify-content-center align-items-center">
+                  <i class="bi bi-inboxes"></i>
+                  <h4>Labore consequatur incidid dolore</h4>
+                  <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+                </div>
+              </div><!-- End Icon Box -->
+
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+    </section><!-- /Why Us Section -->
+
+    <!-- Stats Section -->
+    <section id="stats" class="stats section dark-background">
+
+      <img src="./sub-img_files/stats-bg.jpg" alt="" data-aos="fade-in" class="aos-init aos-animate">
+
+      <div class="container position-relative aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="row gy-4">
+
+          <div class="col-lg-3 col-md-6">
+            <div class="stats-item text-center w-100 h-100">
+              <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="0" class="purecounter">232</span>
+              <p>Clients</p>
+            </div>
+          </div><!-- End Stats Item -->
+
+          <div class="col-lg-3 col-md-6">
+            <div class="stats-item text-center w-100 h-100">
+              <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="0" class="purecounter">521</span>
+              <p>Projects</p>
+            </div>
+          </div><!-- End Stats Item -->
+
+          <div class="col-lg-3 col-md-6">
+            <div class="stats-item text-center w-100 h-100">
+              <span data-purecounter-start="0" data-purecounter-end="1453" data-purecounter-duration="0" class="purecounter">1453</span>
+              <p>Hours Of Support</p>
+            </div>
+          </div><!-- End Stats Item -->
+
+          <div class="col-lg-3 col-md-6">
+            <div class="stats-item text-center w-100 h-100">
+              <span data-purecounter-start="0" data-purecounter-end="32" data-purecounter-duration="0" class="purecounter">32</span>
+              <p>Workers</p>
+            </div>
+          </div><!-- End Stats Item -->
+
+        </div>
+
+      </div>
+
+    </section><!-- /Stats Section -->
+
+    <!-- Menu Section -->
+    <section id="menu" class="menu section">
+
+      <!-- Section Title -->
+      <div class="container section-title aos-init aos-animate" data-aos="fade-up">
+        <h2>Our Menu</h2>
+        <p><span>Check Our</span> <span class="description-title">Yummy Menu</span></p>
+      </div><!-- End Section Title -->
+
+      <div class="container">
+
+        <ul class="nav nav-tabs d-flex justify-content-center aos-init aos-animate" data-aos="fade-up" data-aos-delay="100" role="tablist">
+
+          <li class="nav-item" role="presentation">
+            <a class="nav-link active show" data-bs-toggle="tab" data-bs-target="#menu-starters" aria-selected="true" role="tab">
+              <h4>Starters</h4>
+            </a>
+          </li><!-- End tab nav item -->
+
+          <li class="nav-item" role="presentation">
+            <a class="nav-link" data-bs-toggle="tab" data-bs-target="#menu-breakfast" aria-selected="false" tabindex="-1" role="tab">
+              <h4>Breakfast</h4>
+            </a><!-- End tab nav item -->
+
+          </li>
+          <li class="nav-item" role="presentation">
+            <a class="nav-link" data-bs-toggle="tab" data-bs-target="#menu-lunch" aria-selected="false" tabindex="-1" role="tab">
+              <h4>Lunch</h4>
+            </a>
+          </li><!-- End tab nav item -->
+
+          <li class="nav-item" role="presentation">
+            <a class="nav-link" data-bs-toggle="tab" data-bs-target="#menu-dinner" aria-selected="false" tabindex="-1" role="tab">
+              <h4>Dinner</h4>
+            </a>
+          </li><!-- End tab nav item -->
+
+        </ul>
+
+        <div class="tab-content aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+
+          <div class="tab-pane fade active show" id="menu-starters" role="tabpanel">
+
+            <div class="tab-header text-center">
+              <p>Menu</p>
+              <h3>Starters</h3>
+            </div>
+
+            <div class="row gy-5">
+
+              <div class="col-lg-4 menu-item">
+                <a href="./sub-img_files/menu-item-1.png" class="glightbox"><img src="./sub-img_files/menu-item-1.png" class="menu-img img-fluid" alt=""></a>
+                <h4>Magnam Tiste</h4>
+                <p class="ingredients">
+                  Lorem, deren, trataro, filede, nerada
+                </p>
+                <p class="price">
+                  $5.95
+                </p>
+              </div><!-- Menu Item -->
+
+              <div class="col-lg-4 menu-item">
+                <a href="./sub-img_files/menu-item-2.png" class="glightbox"><img src="./sub-img_files/menu-item-2.png" class="menu-img img-fluid" alt=""></a>
+                <h4>Aut Luia</h4>
+                <p class="ingredients">
+                  Lorem, deren, trataro, filede, nerada
+                </p>
+                <p class="price">
+                  $14.95
+                </p>
+              </div><!-- Menu Item -->
+
+              <div class="col-lg-4 menu-item">
+                <a href="./sub-img_files/menu-item-3.png" class="glightbox"><img src="./sub-img_files/menu-item-3.png" class="menu-img img-fluid" alt=""></a>
+                <h4>Est Eligendi</h4>
+                <p class="ingredients">
+                  Lorem, deren, trataro, filede, nerada
+                </p>
+                <p class="price">
+                  $8.95
+                </p>
+              </div><!-- Menu Item -->
+
+              <div class="col-lg-4 menu-item">
+                <a href="./sub-img_files/menu-item-4.png" class="glightbox"><img src="./sub-img_files/menu-item-4.png" class="menu-img img-fluid" alt=""></a>
+                <h4>Eos Luibusdam</h4>
+                <p class="ingredients">
+                  Lorem, deren, trataro, filede, nerada
+                </p>
+                <p class="price">
+                  $12.95
+                </p>
+              </div><!-- Menu Item -->
+
+              <div class="col-lg-4 menu-item">
+                <a href="./sub-img_files/menu-item-5.png" class="glightbox"><img src="./sub-img_files/menu-item-5.png" class="menu-img img-fluid" alt=""></a>
+                <h4>Eos Luibusdam</h4>
+                <p class="ingredients">
+                  Lorem, deren, trataro, filede, nerada
+                </p>
+                <p class="price">
+                  $12.95
+                </p>
+              </div><!-- Menu Item -->
+
+              <div class="col-lg-4 menu-item">
+                <a href="./sub-img_files/menu-item-6.png" class="glightbox"><img src="./sub-img_files/menu-item-6.png" class="menu-img img-fluid" alt=""></a>
+                <h4>Laboriosam Direva</h4>
+                <p class="ingredients">
+                  Lorem, deren, trataro, filede, nerada
+                </p>
+                <p class="price">
+                  $9.95
+                </p>
+              </div><!-- Menu Item -->
+
+            </div>
+          </div><!-- End Starter Menu Content -->
+
+          <div class="tab-pane fade" id="menu-breakfast" role="tabpanel">
+
+            <div class="tab-header text-center">
+              <p>Menu</p>
+              <h3>Breakfast</h3>
+            </div>
+
+            <div class="row gy-5">
+
+              <div class="col-lg-4 menu-item">
+                <a href="./sub-img_files/menu-item-1.png" class="glightbox"><img src="./sub-img_files/menu-item-1.png" class="menu-img img-fluid" alt=""></a>
+                <h4>Magnam Tiste</h4>
+                <p class="ingredients">
+                  Lorem, deren, trataro, filede, nerada
+                </p>
+                <p class="price">
+                  $5.95
+                </p>
+              </div><!-- Menu Item -->
+
+              <div class="col-lg-4 menu-item">
+                <a href="./sub-img_files/menu-item-2.png" class="glightbox"><img src="./sub-img_files/menu-item-2.png" class="menu-img img-fluid" alt=""></a>
+                <h4>Aut Luia</h4>
+                <p class="ingredients">
+                  Lorem, deren, trataro, filede, nerada
+                </p>
+                <p class="price">
+                  $14.95
+                </p>
+              </div><!-- Menu Item -->
+
+              <div class="col-lg-4 menu-item">
+                <a href="./sub-img_files/menu-item-3.png" class="glightbox"><img src="./sub-img_files/menu-item-3.png" class="menu-img img-fluid" alt=""></a>
+                <h4>Est Eligendi</h4>
+                <p class="ingredients">
+                  Lorem, deren, trataro, filede, nerada
+                </p>
+                <p class="price">
+                  $8.95
+                </p>
+              </div><!-- Menu Item -->
+
+              <div class="col-lg-4 menu-item">
+                <a href="./sub-img_files/menu-item-4.png" class="glightbox"><img src="./sub-img_files/menu-item-4.png" class="menu-img img-fluid" alt=""></a>
+                <h4>Eos Luibusdam</h4>
+                <p class="ingredients">
+                  Lorem, deren, trataro, filede, nerada
+                </p>
+                <p class="price">
+                  $12.95
+                </p>
+              </div><!-- Menu Item -->
+
+              <div class="col-lg-4 menu-item">
+                <a href="./sub-img_files/menu-item-5.png" class="glightbox"><img src="./sub-img_files/menu-item-5.png" class="menu-img img-fluid" alt=""></a>
+                <h4>Eos Luibusdam</h4>
+                <p class="ingredients">
+                  Lorem, deren, trataro, filede, nerada
+                </p>
+                <p class="price">
+                  $12.95
+                </p>
+              </div><!-- Menu Item -->
+
+              <div class="col-lg-4 menu-item">
+                <a href="./sub-img_files/menu-item-6.png" class="glightbox"><img src="./sub-img_files/menu-item-6.png" class="menu-img img-fluid" alt=""></a>
+                <h4>Laboriosam Direva</h4>
+                <p class="ingredients">
+                  Lorem, deren, trataro, filede, nerada
+                </p>
+                <p class="price">
+                  $9.95
+                </p>
+              </div><!-- Menu Item -->
+
+            </div>
+          </div><!-- End Breakfast Menu Content -->
+
+          <div class="tab-pane fade" id="menu-lunch" role="tabpanel">
+
+            <div class="tab-header text-center">
+              <p>Menu</p>
+              <h3>Lunch</h3>
+            </div>
+
+            <div class="row gy-5">
+
+              <div class="col-lg-4 menu-item">
+                <a href="./sub-img_files/menu-item-1.png" class="glightbox"><img src="./sub-img_files/menu-item-1.png" class="menu-img img-fluid" alt=""></a>
+                <h4>Magnam Tiste</h4>
+                <p class="ingredients">
+                  Lorem, deren, trataro, filede, nerada
+                </p>
+                <p class="price">
+                  $5.95
+                </p>
+              </div><!-- Menu Item -->
+
+              <div class="col-lg-4 menu-item">
+                <a href="./sub-img_files/menu-item-2.png" class="glightbox"><img src="./sub-img_files/menu-item-2.png" class="menu-img img-fluid" alt=""></a>
+                <h4>Aut Luia</h4>
+                <p class="ingredients">
+                  Lorem, deren, trataro, filede, nerada
+                </p>
+                <p class="price">
+                  $14.95
+                </p>
+              </div><!-- Menu Item -->
+
+              <div class="col-lg-4 menu-item">
+                <a href="./sub-img_files/menu-item-3.png" class="glightbox"><img src="./sub-img_files/menu-item-3.png" class="menu-img img-fluid" alt=""></a>
+                <h4>Est Eligendi</h4>
+                <p class="ingredients">
+                  Lorem, deren, trataro, filede, nerada
+                </p>
+                <p class="price">
+                  $8.95
+                </p>
+              </div><!-- Menu Item -->
+
+              <div class="col-lg-4 menu-item">
+                <a href="./sub-img_files/menu-item-4.png" class="glightbox"><img src="./sub-img_files/menu-item-4.png" class="menu-img img-fluid" alt=""></a>
+                <h4>Eos Luibusdam</h4>
+                <p class="ingredients">
+                  Lorem, deren, trataro, filede, nerada
+                </p>
+                <p class="price">
+                  $12.95
+                </p>
+              </div><!-- Menu Item -->
+
+              <div class="col-lg-4 menu-item">
+                <a href="./sub-img_files/menu-item-5.png" class="glightbox"><img src="./sub-img_files/menu-item-5.png" class="menu-img img-fluid" alt=""></a>
+                <h4>Eos Luibusdam</h4>
+                <p class="ingredients">
+                  Lorem, deren, trataro, filede, nerada
+                </p>
+                <p class="price">
+                  $12.95
+                </p>
+              </div><!-- Menu Item -->
+
+              <div class="col-lg-4 menu-item">
+                <a href="./sub-img_files/menu-item-6.png" class="glightbox"><img src="./sub-img_files/menu-item-6.png" class="menu-img img-fluid" alt=""></a>
+                <h4>Laboriosam Direva</h4>
+                <p class="ingredients">
+                  Lorem, deren, trataro, filede, nerada
+                </p>
+                <p class="price">
+                  $9.95
+                </p>
+              </div><!-- Menu Item -->
+
+            </div>
+          </div><!-- End Lunch Menu Content -->
+
+          <div class="tab-pane fade" id="menu-dinner" role="tabpanel">
+
+            <div class="tab-header text-center">
+              <p>Menu</p>
+              <h3>Dinner</h3>
+            </div>
+
+            <div class="row gy-5">
+
+              <div class="col-lg-4 menu-item">
+                <a href="./sub-img_files/menu-item-1.png" class="glightbox"><img src="./sub-img_files/menu-item-1.png" class="menu-img img-fluid" alt=""></a>
+                <h4>Magnam Tiste</h4>
+                <p class="ingredients">
+                  Lorem, deren, trataro, filede, nerada
+                </p>
+                <p class="price">
+                  $5.95
+                </p>
+              </div><!-- Menu Item -->
+
+              <div class="col-lg-4 menu-item">
+                <a href="./sub-img_files/menu-item-2.png" class="glightbox"><img src="./sub-img_files/menu-item-2.png" class="menu-img img-fluid" alt=""></a>
+                <h4>Aut Luia</h4>
+                <p class="ingredients">
+                  Lorem, deren, trataro, filede, nerada
+                </p>
+                <p class="price">
+                  $14.95
+                </p>
+              </div><!-- Menu Item -->
+
+              <div class="col-lg-4 menu-item">
+                <a href="./sub-img_files/menu-item-3.png" class="glightbox"><img src="./sub-img_files/menu-item-3.png" class="menu-img img-fluid" alt=""></a>
+                <h4>Est Eligendi</h4>
+                <p class="ingredients">
+                  Lorem, deren, trataro, filede, nerada
+                </p>
+                <p class="price">
+                  $8.95
+                </p>
+              </div><!-- Menu Item -->
+
+              <div class="col-lg-4 menu-item">
+                <a href="./sub-img_files/menu-item-4.png" class="glightbox"><img src="./sub-img_files/menu-item-4.png" class="menu-img img-fluid" alt=""></a>
+                <h4>Eos Luibusdam</h4>
+                <p class="ingredients">
+                  Lorem, deren, trataro, filede, nerada
+                </p>
+                <p class="price">
+                  $12.95
+                </p>
+              </div><!-- Menu Item -->
+
+              <div class="col-lg-4 menu-item">
+                <a href="./sub-img_files/menu-item-5.png" class="glightbox"><img src="./sub-img_files/menu-item-5.png" class="menu-img img-fluid" alt=""></a>
+                <h4>Eos Luibusdam</h4>
+                <p class="ingredients">
+                  Lorem, deren, trataro, filede, nerada
+                </p>
+                <p class="price">
+                  $12.95
+                </p>
+              </div><!-- Menu Item -->
+
+              <div class="col-lg-4 menu-item">
+                <a href="./sub-img_files/menu-item-6.png" class="glightbox"><img src="./sub-img_files/menu-item-6.png" class="menu-img img-fluid" alt=""></a>
+                <h4>Laboriosam Direva</h4>
+                <p class="ingredients">
+                  Lorem, deren, trataro, filede, nerada
+                </p>
+                <p class="price">
+                  $9.95
+                </p>
+              </div><!-- Menu Item -->
+
+            </div>
+          </div><!-- End Dinner Menu Content -->
+
+        </div>
+
+      </div>
+
+    </section><!-- /Menu Section -->
+
+    <!-- Testimonials Section -->
+    <section id="testimonials" class="testimonials section light-background">
+
+      <!-- Section Title -->
+      <div class="container section-title aos-init aos-animate" data-aos="fade-up">
+        <h2>TESTIMONIALS</h2>
+        <p>What Are They <span class="description-title">Saying About Us</span></p>
+      </div><!-- End Section Title -->
+
+      <div class="container aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="swiper init-swiper swiper-initialized swiper-horizontal swiper-backface-hidden">
+          <script type="application/json" class="swiper-config">
+            {
+              "loop": true,
+              "speed": 600,
+              "autoplay": {
+                "delay": 5000
+              },
+              "slidesPerView": "auto",
+              "pagination": {
+                "el": ".swiper-pagination",
+                "type": "bullets",
+                "clickable": true
+              }
+            }
+          </script>
+          <div class="swiper-wrapper" id="swiper-wrapper-2d1fe774e431c13d" aria-live="off" style="transition-duration: 0ms; transform: translate3d(-3348px, 0px, 0px); transition-delay: 0ms;">
+
+            <!-- End testimonial item -->
+
+            <!-- End testimonial item -->
+
+            <!-- End testimonial item -->
+
+            <!-- End testimonial item -->
+
+          <div class="swiper-slide swiper-slide-next" role="group" aria-label="3 / 4" data-swiper-slide-index="2">
+              <div class="testimonial-item">
+                <div class="row gy-4 justify-content-center">
+                  <div class="col-lg-6">
+                    <div class="testimonial-content">
+                      <p>
+                        <i class="bi bi-quote quote-icon-left"></i>
+                        <span>Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.</span>
+                        <i class="bi bi-quote quote-icon-right"></i>
+                      </p>
+                      <h3>Jena Karlis</h3>
+                      <h4>Store Owner</h4>
+                      <div class="stars">
+                        <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 text-center">
+                    <img src="./sub-img_files/testimonials-3.jpg" class="img-fluid testimonial-img" alt="">
+                  </div>
+                </div>
+              </div>
+            </div><div class="swiper-slide" role="group" aria-label="4 / 4" data-swiper-slide-index="3">
+              <div class="testimonial-item">
+                <div class="row gy-4 justify-content-center">
+                  <div class="col-lg-6">
+                    <div class="testimonial-content">
+                      <p>
+                        <i class="bi bi-quote quote-icon-left"></i>
+                        <span>Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.</span>
+                        <i class="bi bi-quote quote-icon-right"></i>
+                      </p>
+                      <h3>John Larson</h3>
+                      <h4>Entrepreneur</h4>
+                      <div class="stars">
+                        <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 text-center">
+                    <img src="./sub-img_files/testimonials-4.jpg" class="img-fluid testimonial-img" alt="">
+                  </div>
+                </div>
+              </div>
+            </div><div class="swiper-slide swiper-slide-prev" role="group" aria-label="1 / 4" data-swiper-slide-index="0">
+              <div class="testimonial-item">
+                <div class="row gy-4 justify-content-center">
+                  <div class="col-lg-6">
+                    <div class="testimonial-content">
+                      <p>
+                        <i class="bi bi-quote quote-icon-left"></i>
+                        <span>Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.</span>
+                        <i class="bi bi-quote quote-icon-right"></i>
+                      </p>
+                      <h3>Saul Goodman</h3>
+                      <h4>Ceo &amp; Founder</h4>
+                      <div class="stars">
+                        <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 text-center">
+                    <img src="./sub-img_files/testimonials-1.jpg" class="img-fluid testimonial-img" alt="">
+                  </div>
+                </div>
+              </div>
+            </div><div class="swiper-slide swiper-slide-active" role="group" aria-label="2 / 4" data-swiper-slide-index="1">
+              <div class="testimonial-item">
+                <div class="row gy-4 justify-content-center">
+                  <div class="col-lg-6">
+                    <div class="testimonial-content">
+                      <p>
+                        <i class="bi bi-quote quote-icon-left"></i>
+                        <span>Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.</span>
+                        <i class="bi bi-quote quote-icon-right"></i>
+                      </p>
+                      <h3>Sara Wilsson</h3>
+                      <h4>Designer</h4>
+                      <div class="stars">
+                        <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 text-center">
+                    <img src="./sub-img_files/testimonials-2.jpg" class="img-fluid testimonial-img" alt="">
+                  </div>
+                </div>
+              </div>
+            </div></div>
+          <div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 1"></span><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 2" aria-current="true"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4"></span></div>
+        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+
+      </div>
+
+    </section><!-- /Testimonials Section -->
+
+    <!-- Events Section -->
+    <section id="events" class="events section">
+
+      <div class="container-fluid aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="swiper init-swiper swiper-initialized swiper-horizontal swiper-backface-hidden">
+          <script type="application/json" class="swiper-config">
+            {
+              "loop": true,
+              "speed": 600,
+              "autoplay": {
+                "delay": 5000
+              },
+              "slidesPerView": "auto",
+              "pagination": {
+                "el": ".swiper-pagination",
+                "type": "bullets",
+                "clickable": true
+              },
+              "breakpoints": {
+                "320": {
+                  "slidesPerView": 1,
+                  "spaceBetween": 40
+                },
+                "1200": {
+                  "slidesPerView": 3,
+                  "spaceBetween": 1
+                }
+              }
+            }
+          </script>
+          <div class="swiper-wrapper" id="swiper-wrapper-210301051f5415c9bc" aria-live="off" style="transition-duration: 0ms; transform: translate3d(-422px, 0px, 0px); transition-delay: 0ms;">
+
+            <!-- End Event item -->
+
+            <!-- End Event item -->
+
+            <!-- End Event item -->
+
+            <!-- End Event item -->
+
+          <div class="swiper-slide event-item d-flex flex-column justify-content-end swiper-slide-prev" style="background-image: url(&quot;assets/img/events-1.jpg&quot;); width: 421px; margin-right: 1px;" role="group" aria-label="1 / 4" data-swiper-slide-index="0">
+              <h3>Custom Parties</h3>
+              <div class="price align-self-start">$99</div>
+              <p class="description">
+                Quo corporis voluptas ea ad. Consectetur inventore sapiente ipsum voluptas eos omnis facere. Enim facilis veritatis id est rem repudiandae nulla expedita quas.
+              </p>
+            </div><div class="swiper-slide event-item d-flex flex-column justify-content-end swiper-slide-active" style="background-image: url(&quot;assets/img/events-2.jpg&quot;); width: 421px; margin-right: 1px;" role="group" aria-label="2 / 4" data-swiper-slide-index="1">
+              <h3>Private Parties</h3>
+              <div class="price align-self-start">$289</div>
+              <p class="description">
+                In delectus sint qui et enim. Et ab repudiandae inventore quaerat doloribus. Facere nemo vero est ut dolores ea assumenda et. Delectus saepe accusamus aspernatur.
+              </p>
+            </div><div class="swiper-slide event-item d-flex flex-column justify-content-end swiper-slide-next" style="background-image: url(&quot;assets/img/events-3.jpg&quot;); width: 421px; margin-right: 1px;" role="group" aria-label="3 / 4" data-swiper-slide-index="2">
+              <h3>Birthday Parties</h3>
+              <div class="price align-self-start">$499</div>
+              <p class="description">
+                Laborum aperiam atque omnis minus omnis est qui assumenda quos. Quis id sit quibusdam. Esse quisquam ducimus officia ipsum ut quibusdam maxime. Non enim perspiciatis.
+              </p>
+            </div><div class="swiper-slide event-item d-flex flex-column justify-content-end" style="background-image: url(&quot;assets/img/events-4.jpg&quot;); width: 421px; margin-right: 1px;" role="group" aria-label="4 / 4" data-swiper-slide-index="3">
+              <h3>Wedding Parties</h3>
+              <div class="price align-self-start">$899</div>
+              <p class="description">
+                Laborum aperiam atque omnis minus omnis est qui assumenda quos. Quis id sit quibusdam. Esse quisquam ducimus officia ipsum ut quibusdam maxime. Non enim perspiciatis.
+              </p>
+            </div></div>
+          <div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 1"></span><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 2" aria-current="true"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4"></span></div>
+        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+
+      </div>
+
+    </section><!-- /Events Section -->
+
+    <!-- Chefs Section -->
+    <section id="chefs" class="chefs section">
+
+      <!-- Section Title -->
+      <div class="container section-title aos-init aos-animate" data-aos="fade-up">
+        <h2>chefs</h2>
+        <p><span>Our</span> <span class="description-title">Proffesional Chefs<br></span></p>
+      </div><!-- End Section Title -->
+
+      <div class="container">
+
+        <div class="row gy-4">
+
+          <div class="col-lg-4 d-flex align-items-stretch aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+            <div class="team-member">
+              <div class="member-img">
+                <img src="./sub-img_files/chefs-1.jpg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href="https://themewagon.github.io/yummy-red/"><i class="bi bi-twitter-x"></i></a>
+                  <a href="https://themewagon.github.io/yummy-red/"><i class="bi bi-facebook"></i></a>
+                  <a href="https://themewagon.github.io/yummy-red/"><i class="bi bi-instagram"></i></a>
+                  <a href="https://themewagon.github.io/yummy-red/"><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Walter White</h4>
+                <span>Master Chef</span>
+                <p>Velit aut quia fugit et et. Dolorum ea voluptate vel tempore tenetur ipsa quae aut. Ipsum exercitationem iure minima enim corporis et voluptate.</p>
+              </div>
+            </div>
+          </div><!-- End Chef Team Member -->
+
+          <div class="col-lg-4 d-flex align-items-stretch aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+            <div class="team-member">
+              <div class="member-img">
+                <img src="./sub-img_files/chefs-2.jpg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href="https://themewagon.github.io/yummy-red/"><i class="bi bi-twitter-x"></i></a>
+                  <a href="https://themewagon.github.io/yummy-red/"><i class="bi bi-facebook"></i></a>
+                  <a href="https://themewagon.github.io/yummy-red/"><i class="bi bi-instagram"></i></a>
+                  <a href="https://themewagon.github.io/yummy-red/"><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Sarah Jhonson</h4>
+                <span>Patissier</span>
+                <p>Quo esse repellendus quia id. Est eum et accusantium pariatur fugit nihil minima suscipit corporis. Voluptate sed quas reiciendis animi neque sapiente.</p>
+              </div>
+            </div>
+          </div><!-- End Chef Team Member -->
+
+          <div class="col-lg-4 d-flex align-items-stretch aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
+            <div class="team-member">
+              <div class="member-img">
+                <img src="./sub-img_files/chefs-3.jpg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href="https://themewagon.github.io/yummy-red/"><i class="bi bi-twitter-x"></i></a>
+                  <a href="https://themewagon.github.io/yummy-red/"><i class="bi bi-facebook"></i></a>
+                  <a href="https://themewagon.github.io/yummy-red/"><i class="bi bi-instagram"></i></a>
+                  <a href="https://themewagon.github.io/yummy-red/"><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>William Anderson</h4>
+                <span>Cook</span>
+                <p>Vero omnis enim consequatur. Voluptas consectetur unde qui molestiae deserunt. Voluptates enim aut architecto porro aspernatur molestiae modi.</p>
+              </div>
+            </div>
+          </div><!-- End Chef Team Member -->
+
+        </div>
+
+      </div>
+
+    </section><!-- /Chefs Section -->
+
+    <!-- Book A Table Section -->
+    <section id="book-a-table" class="book-a-table section">
+
+      <!-- Section Title -->
+      <div class="container section-title aos-init aos-animate" data-aos="fade-up">
+        <h2>Book A Table</h2>
+        <p><span>Book Your</span> <span class="description-title">Stay With Us<br></span></p>
+      </div><!-- End Section Title -->
+
+      <div class="container">
+
+        <div class="row g-0 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+
+          <div class="col-lg-4 reservation-img" style="background-image: url(assets/img/reservation.jpg);"></div>
+
+          <div class="col-lg-8 d-flex align-items-center reservation-form-bg aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+            <form action="https://themewagon.github.io/yummy-red/forms/book-a-table.php" method="post" role="form" class="php-email-form">
+              <div class="row gy-4">
+                <div class="col-lg-4 col-md-6">
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required="">
+                </div>
+                <div class="col-lg-4 col-md-6">
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required="">
+                </div>
+                <div class="col-lg-4 col-md-6">
+                  <input type="text" class="form-control" name="phone" id="phone" placeholder="Your Phone" required="">
+                </div>
+                <div class="col-lg-4 col-md-6">
+                  <input type="date" name="date" class="form-control" id="date" placeholder="Date" required="">
+                </div>
+                <div class="col-lg-4 col-md-6">
+                  <input type="time" class="form-control" name="time" id="time" placeholder="Time" required="">
+                </div>
+                <div class="col-lg-4 col-md-6">
+                  <input type="number" class="form-control" name="people" id="people" placeholder="# of people" required="">
+                </div>
+              </div>
+
+              <div class="form-group mt-3">
+                <textarea class="form-control" name="message" rows="5" placeholder="Message"></textarea>
+              </div>
+
+              <div class="text-center mt-3">
+                <div class="loading">Loading</div>
+                <div class="error-message"></div>
+                <div class="sent-message">Your booking request was sent. We will call back or send an Email to confirm your reservation. Thank you!</div>
+                <button type="submit">Book a Table</button>
+              </div>
+            </form>
+          </div><!-- End Reservation Form -->
+
+        </div>
+
+      </div>
+
+    </section><!-- /Book A Table Section -->
+
+    <!-- Gallery Section -->
+    <section id="gallery" class="gallery section light-background">
+
+      <!-- Section Title -->
+      <div class="container section-title aos-init aos-animate" data-aos="fade-up">
+        <h2>Gallery</h2>
+        <p><span>Check</span> <span class="description-title">Our Gallery</span></p>
+      </div><!-- End Section Title -->
+
+      <div class="container aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="swiper init-swiper swiper-initialized swiper-horizontal swiper-backface-hidden">
+          <script type="application/json" class="swiper-config">
+            {
+              "loop": true,
+              "speed": 600,
+              "autoplay": {
+                "delay": 5000
+              },
+              "slidesPerView": "auto",
+              "centeredSlides": true,
+              "pagination": {
+                "el": ".swiper-pagination",
+                "type": "bullets",
+                "clickable": true
+              },
+              "breakpoints": {
+                "320": {
+                  "slidesPerView": 1,
+                  "spaceBetween": 0
+                },
+                "768": {
+                  "slidesPerView": 3,
+                  "spaceBetween": 20
+                },
+                "1200": {
+                  "slidesPerView": 5,
+                  "spaceBetween": 20
+                }
+              }
+            }
+          </script>
+          <div class="swiper-wrapper align-items-center" id="swiper-wrapper-853ac457ebc7d278" aria-live="off" style="transition-duration: 0ms; transform: translate3d(-681.6px, 0px, 0px); transition-delay: 0ms;">
+            
+            
+            
+            
+            
+            
+            
+            
+          <div class="swiper-slide" role="group" aria-label="5 / 8" data-swiper-slide-index="4" style="width: 207.2px; margin-right: 20px;"><a class="glightbox" data-gallery="images-gallery" href="./sub-img_files/gallery-5.jpg"><img src="./sub-img_files/gallery-5.jpg" class="img-fluid" alt=""></a></div><div class="swiper-slide" role="group" aria-label="6 / 8" data-swiper-slide-index="5" style="width: 207.2px; margin-right: 20px;"><a class="glightbox" data-gallery="images-gallery" href="./sub-img_files/gallery-6.jpg"><img src="./sub-img_files/gallery-6.jpg" class="img-fluid" alt=""></a></div><div class="swiper-slide" role="group" aria-label="7 / 8" data-swiper-slide-index="6" style="width: 207.2px; margin-right: 20px;"><a class="glightbox" data-gallery="images-gallery" href="./sub-img_files/gallery-7.jpg"><img src="./sub-img_files/gallery-7.jpg" class="img-fluid" alt=""></a></div><div class="swiper-slide" role="group" aria-label="8 / 8" data-swiper-slide-index="7" style="width: 207.2px; margin-right: 20px;"><a class="glightbox" data-gallery="images-gallery" href="./sub-img_files/gallery-8.jpg"><img src="./sub-img_files/gallery-8.jpg" class="img-fluid" alt=""></a></div><div class="swiper-slide swiper-slide-prev" role="group" aria-label="1 / 8" data-swiper-slide-index="0" style="width: 207.2px; margin-right: 20px;"><a class="glightbox" data-gallery="images-gallery" href="./sub-img_files/gallery-1.jpg"><img src="./sub-img_files/gallery-1.jpg" class="img-fluid" alt=""></a></div><div class="swiper-slide swiper-slide-active" role="group" aria-label="2 / 8" data-swiper-slide-index="1" style="width: 207.2px; margin-right: 20px;"><a class="glightbox" data-gallery="images-gallery" href="./sub-img_files/gallery-2.jpg"><img src="./sub-img_files/gallery-2.jpg" class="img-fluid" alt=""></a></div><div class="swiper-slide swiper-slide-next" role="group" aria-label="3 / 8" data-swiper-slide-index="2" style="width: 207.2px; margin-right: 20px;"><a class="glightbox" data-gallery="images-gallery" href="./sub-img_files/gallery-3.jpg"><img src="./sub-img_files/gallery-3.jpg" class="img-fluid" alt=""></a></div><div class="swiper-slide" role="group" aria-label="4 / 8" data-swiper-slide-index="3" style="width: 207.2px; margin-right: 20px;"><a class="glightbox" data-gallery="images-gallery" href="./sub-img_files/gallery-4.jpg"><img src="./sub-img_files/gallery-4.jpg" class="img-fluid" alt=""></a></div></div>
+          <div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 1"></span><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 2" aria-current="true"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 5"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 6"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 7"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 8"></span></div>
+        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+
+      </div>
+
+    </section><!-- /Gallery Section -->
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact section">
+
+      <!-- Section Title -->
+      <div class="container section-title aos-init aos-animate" data-aos="fade-up">
+        <h2>Contact</h2>
+        <p><span>Need Help?</span> <span class="description-title">Contact Us</span></p>
+      </div><!-- End Section Title -->
+
+      <div class="container aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="mb-5">
+          <iframe style="width: 100%; height: 400px;" src="./sub-img_files/embed.html" frameborder="0" allowfullscreen=""></iframe>
+        </div><!-- End Google Maps -->
+
+        <div class="row gy-4">
+
+          <div class="col-md-6">
+            <div class="info-item d-flex align-items-center aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+              <i class="icon bi bi-geo-alt flex-shrink-0"></i>
+              <div>
+                <h3>Address</h3>
+                <p>A108 Adam Street, New York, NY 535022</p>
+              </div>
+            </div>
+          </div><!-- End Info Item -->
+
+          <div class="col-md-6">
+            <div class="info-item d-flex align-items-center aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
+              <i class="icon bi bi-telephone flex-shrink-0"></i>
+              <div>
+                <h3>Call Us</h3>
+                <p>+1 5589 55488 55</p>
+              </div>
+            </div>
+          </div><!-- End Info Item -->
+
+          <div class="col-md-6">
+            <div class="info-item d-flex align-items-center aos-init aos-animate" data-aos="fade-up" data-aos-delay="400">
+              <i class="icon bi bi-envelope flex-shrink-0"></i>
+              <div>
+                <h3>Email Us</h3>
+                <p>info@example.com</p>
+              </div>
+            </div>
+          </div><!-- End Info Item -->
+
+          <div class="col-md-6">
+            <div class="info-item d-flex align-items-center aos-init aos-animate" data-aos="fade-up" data-aos-delay="500">
+              <i class="icon bi bi-clock flex-shrink-0"></i>
+              <div>
+                <h3>Opening Hours<br></h3>
+                <p><strong>Mon-Sat:</strong> 11AM - 23PM; <strong>Sunday:</strong> Closed</p>
+              </div>
+            </div>
+          </div><!-- End Info Item -->
+
+        </div>
+
+        <form action="https://themewagon.github.io/yummy-red/forms/contact.php" method="post" class="php-email-form aos-init aos-animate" data-aos="fade-up" data-aos-delay="600">
+          <div class="row gy-4">
+
+            <div class="col-md-6">
+              <input type="text" name="name" class="form-control" placeholder="Your Name" required="">
+            </div>
+
+            <div class="col-md-6 ">
+              <input type="email" class="form-control" name="email" placeholder="Your Email" required="">
+            </div>
+
+            <div class="col-md-12">
+              <input type="text" class="form-control" name="subject" placeholder="Subject" required="">
+            </div>
+
+            <div class="col-md-12">
+              <textarea class="form-control" name="message" rows="6" placeholder="Message" required=""></textarea>
+            </div>
+
+            <div class="col-md-12 text-center">
+              <div class="loading">Loading</div>
+              <div class="error-message"></div>
+              <div class="sent-message">Your message has been sent. Thank you!</div>
+
+              <button type="submit">Send Message</button>
+            </div>
+
+          </div>
+        </form><!-- End Contact Form -->
+
+      </div>
+
+    </section><!-- /Contact Section -->
+
+  </main>
+
+  <footer id="footer" class="footer dark-background">
+
+    <div class="container">
+      <div class="row gy-3">
+        <div class="col-lg-3 col-md-6 d-flex">
+          <i class="bi bi-geo-alt icon"></i>
+          <div class="address">
+            <h4>Address</h4>
+            <p>A108 Adam Street</p>
+            <p>New York, NY 535022</p>
+            <p></p>
+          </div>
+
+        </div>
+
+        <div class="col-lg-3 col-md-6 d-flex">
+          <i class="bi bi-telephone icon"></i>
+          <div>
+            <h4>Contact</h4>
+            <p>
+              <strong>Phone:</strong> <span>+1 5589 55488 55</span><br>
+              <strong>Email:</strong> <span>info@example.com</span><br>
+            </p>
+          </div>
+        </div>
+
+        <div class="col-lg-3 col-md-6 d-flex">
+          <i class="bi bi-clock icon"></i>
+          <div>
+            <h4>Opening Hours</h4>
+            <p>
+              <strong>Mon-Sat:</strong> <span>11AM - 23PM</span><br>
+              <strong>Sunday</strong>: <span>Closed</span>
+            </p>
+          </div>
+        </div>
+
+        <div class="col-lg-3 col-md-6">
+          <h4>Follow Us</h4>
+          <div class="social-links d-flex">
+            <a href="https://themewagon.github.io/yummy-red/#" class="twitter"><i class="bi bi-twitter-x"></i></a>
+            <a href="https://themewagon.github.io/yummy-red/#" class="facebook"><i class="bi bi-facebook"></i></a>
+            <a href="https://themewagon.github.io/yummy-red/#" class="instagram"><i class="bi bi-instagram"></i></a>
+            <a href="https://themewagon.github.io/yummy-red/#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="container copyright text-center mt-4">
+      <p>© <span>Copyright</span> <strong class="px-1 sitename">Yummy</strong> <span>All Rights Reserved</span></p>
+      <div class="credits">
+        <!-- All the links in the footer should remain intact. -->
+        <!-- You can delete the links only if you've purchased the pro version. -->
+        <!-- Licensing information: https://bootstrapmade.com/license/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
+        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> Distributed by <a href="https://themewagon.com/">ThemeWagon</a>
+      </div>
+    </div>
+
+  </footer>
+
+  <!-- Scroll Top -->
+  <a href="https://themewagon.github.io/yummy-red/#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center active"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Preloader -->
+  
+
+  <!-- Vendor JS Files -->
+  <script src="./sub-img_files/bootstrap.bundle.min.js.download"></script>
+  <script src="./sub-img_files/validate.js.download"></script>
+  <script src="./sub-img_files/aos.js.download"></script>
+  <script src="./sub-img_files/glightbox.min.js.download"></script>
+  <script src="./sub-img_files/purecounter_vanilla.js.download"></script>
+  <script src="./sub-img_files/swiper-bundle.min.js.download"></script>
+
+  <!-- Main JS File -->
+  <script src="./sub-img_files/main.js.download"></script>
+
+
+
+<insite-container style="position: relative; z-index: 2147483647; visibility: visible;"><template shadowrootmode="closed"><style>.InsiteIcons-module_root__6e7AJ {
+  display: inline-block;
+}
+.InsiteIcons-module_root__6e7AJ svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+}</style><style>.ErrorMessage-module_root__Dm-Or {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+  width: 432px;
+  border-radius: 8px;
+  padding: 4px 8px;
+  margin: 20px auto;
+  background-color: #ec2f74;
+  font-family: var(--insite-font-family), sans-serif;
+  font-weight: normal;
+  font-size: 16px;
+  color: #fff;
+}
+
+.ErrorMessage-module_reload__8TEU5 {
+  background-color: transparent;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  flex: 0 0 auto;
+  width: 16px;
+  height: 16px;
+  margin: 0 8px 0 0;
+}
+
+.ErrorMessage-module_reloadIcon__pyQnd {
+  width: 16px;
+  height: 16px;
+}</style><style>.themes-module_insite__95WAb {
+  --insite-primary-colour: #2f206a;
+}
+
+.themes-module_glp__-QkAh {
+  --insite-primary-colour: #029439;
+}</style><style>.Button-module_root__8RX49 {
+  background-color: #2F206A;
+  border: 1px solid #2F206A;
+  border-radius: 4px;
+  padding: 8px 24px;
+  color: white;
+  font-weight: 600;
+  font-family: var(--insite-font-family), sans-serif;
+}</style><style>.LoginPrompt-module_root__8uMCh {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 60px;
+  padding-top: 200px;
+  width: 480px;
+  background-color: #f3f3f5;
+  text-align: center;
+  pointer-events: auto;
+  grid-column: 4/13;
+}
+@media (min-width: 1600px) {
+  .LoginPrompt-module_root__8uMCh {
+    grid-column: 5/9;
+  }
+}</style><style>.InsiteActionButton-module_root__RkThg {
+  box-sizing: border-box;
+  pointer-events: auto;
+  user-select: none;
+  position: relative;
+  z-index: 1;
+  align-self: flex-end;
+  margin-bottom: 160px;
+}
+.InsiteActionButton-module_root__RkThg.InsiteActionButton-module_open__hL7M- .InsiteActionButton-module_inner__8o5UD {
+  box-shadow: -16px 0px 32px rgba(0, 0, 0, 0.16);
+}
+.InsiteActionButton-module_root__RkThg.InsiteActionButton-module_open__hL7M- .InsiteActionButton-module_pointer__FgGFh {
+  transform: rotate(180deg);
+}
+.InsiteActionButton-module_root__RkThg .InsiteActionButton-module_inner__8o5UD {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 54px;
+  height: 50px;
+  border-radius: 25px 0 0 25px;
+  background-color: #f3f3f5;
+  transition: box-shadow 0.6s;
+}
+.InsiteActionButton-module_root__RkThg .InsiteActionButton-module_icon__PPdD4 {
+  flex: 0 0 auto;
+  height: 28px;
+  max-width: 20px;
+}
+.InsiteActionButton-module_root__RkThg .InsiteActionButton-module_pointer__FgGFh {
+  flex: 0 0 auto;
+  height: 12px;
+  transition: transform 0.6s;
+}
+.InsiteActionButton-module_root__RkThg .InsiteActionButton-module_iconInner__hqT3k {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.InsiteActionButton-module_root__RkThg .InsiteActionButton-module_iconInner__hqT3k svg {
+  display: block;
+}
+.InsiteActionButton-module_root__RkThg .InsiteActionButton-module_bubble__5sdAq {
+  position: absolute;
+  top: -5px;
+  left: 0;
+  width: 20px;
+  height: 20px;
+  padding: 4px;
+  color: white;
+  background-color: #34A61C;
+  border-radius: 50%;
+  cursor: pointer;
+  text-align: center;
+  font-size: 14px;
+}
+.InsiteActionButton-module_root__RkThg .InsiteActionButton-module_bubble__5sdAq.InsiteActionButton-module_hideBubble__fg-gY {
+  display: none;
+}
+.InsiteActionButton-module_root__RkThg .InsiteActionButton-module_bubble__5sdAq:hover {
+  top: -7px;
+  left: -2px;
+  width: 24px;
+  height: 24px;
+  padding: 6px;
+  background-color: #3CBF20;
+}
+.InsiteActionButton-module_root__RkThg .InsiteActionButton-module_homeIcon__5yVya {
+  width: 12px;
+  height: 12px;
+  display: block;
+}</style><style>.InsiteHomeMenu-module_root__dQZl- {
+  display: flex;
+  justify-content: stretch;
+  align-items: stretch;
+  grid-column: 1/3;
+  pointer-events: auto;
+  background-color: white;
+}
+@media (min-width: 1600px) {
+  .InsiteHomeMenu-module_root__dQZl- {
+    justify-content: flex-end;
+    grid-column: 1/5;
+  }
+}
+.InsiteHomeMenu-module_root__dQZl- .InsiteHomeMenu-module_container__yKip2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: stretch;
+  align-items: stretch;
+  flex: 1 1;
+}
+@media (min-width: 1600px) {
+  .InsiteHomeMenu-module_root__dQZl- .InsiteHomeMenu-module_container__yKip2 {
+    justify-content: flex-start;
+    max-width: 240px;
+    min-width: 240px;
+  }
+}
+.InsiteHomeMenu-module_root__dQZl- .InsiteHomeMenu-module_logo__6MYJN {
+  flex: 0 0 auto;
+  align-self: flex-start;
+  height: 32px;
+  margin: 40px 24px;
+}
+.InsiteHomeMenu-module_root__dQZl- nav {
+  flex-grow: 1;
+  margin-bottom: 100px;
+}
+.InsiteHomeMenu-module_root__dQZl- nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+.InsiteHomeMenu-module_root__dQZl- nav li {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  margin: 0;
+  padding: 0 0 0 24px;
+  font-size: 16px;
+  line-height: 56px;
+  color: #666;
+  cursor: pointer;
+  user-select: none;
+}
+.InsiteHomeMenu-module_root__dQZl- nav li .InsiteHomeMenu-module_menuItemIcon__paXHY {
+  display: block;
+  width: 24px;
+  height: 24px;
+  margin-right: 24px;
+}
+.InsiteHomeMenu-module_root__dQZl- nav li .InsiteHomeMenu-module_visualInputBox__gOqf4 {
+  flex: 1 1 auto;
+  margin: 8px 8px 8px -12px;
+  padding-left: 8px;
+  height: 40px;
+  border: 1px transparent;
+  border-radius: 4px;
+  background-color: transparent;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.InsiteHomeMenu-module_root__dQZl- nav li .InsiteHomeMenu-module_visualInputBox__gOqf4 .InsiteHomeMenu-module_searchInput__yPxfW {
+  border: 0;
+  background-color: transparent;
+  font-size: 16px;
+  line-height: 40px;
+  color: #666;
+  width: 76%;
+  outline: none;
+}
+.InsiteHomeMenu-module_root__dQZl- nav li:hover {
+  background-color: #f3f3f5;
+}
+.InsiteHomeMenu-module_root__dQZl- nav li.InsiteHomeMenu-module_active__-PnRD {
+  background-color: #f3f3f5;
+  color: var(--insite-primary-colour);
+  font-weight: 600;
+  border-left: 3px solid var(--insite-primary-colour);
+}
+.InsiteHomeMenu-module_root__dQZl- nav li.InsiteHomeMenu-module_active__-PnRD .InsiteHomeMenu-module_visualInputBox__gOqf4 {
+  border: 1px solid #d9d7de;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.0784313725);
+  background-color: white;
+}
+.InsiteHomeMenu-module_root__dQZl- nav li.InsiteHomeMenu-module_hidden__iP0a3 {
+  display: none;
+}
+.InsiteHomeMenu-module_root__dQZl- nav li.InsiteHomeMenu-module_divider__Pou-G {
+  border-top: 1px solid #D9D7DE;
+  width: 80%;
+  margin: 17px 10%;
+  cursor: auto;
+}
+.InsiteHomeMenu-module_root__dQZl- nav li.InsiteHomeMenu-module_divider__Pou-G::before {
+  content: none;
+}
+.InsiteHomeMenu-module_root__dQZl- nav li.InsiteHomeMenu-module_spacer__Cg9ol {
+  flex-grow: 1;
+  cursor: auto;
+}
+.InsiteHomeMenu-module_root__dQZl- nav li.InsiteHomeMenu-module_spacer__Cg9ol:hover {
+  background-color: transparent;
+}</style><style>.ExpandedAssignee-module_root__0EK-f {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1em;
+  width: 100%;
+  margin: 0;
+  color: #999;
+}
+.ExpandedAssignee-module_root__0EK-f .ExpandedAssignee-module_user__G7-if {
+  flex: 1 1 auto;
+  margin: 0;
+}
+.ExpandedAssignee-module_root__0EK-f .ExpandedAssignee-module_user__G7-if .ExpandedAssignee-module_user-display-name__BhiTK {
+  display: block;
+  font-weight: bold;
+  line-height: 23px;
+  color: #333;
+}
+.ExpandedAssignee-module_root__0EK-f .ExpandedAssignee-module_user__G7-if .ExpandedAssignee-module_user-job-title__DyPxM {
+  display: block;
+  margin: 0;
+  font-size: 12px;
+  line-height: 17px;
+  color: #999;
+}
+.ExpandedAssignee-module_root__0EK-f .ExpandedAssignee-module_read__zyZiQ {
+  display: none;
+}
+.ExpandedAssignee-module_root__0EK-f .ExpandedAssignee-module_completed__n7JPd {
+  flex: 0 0 auto;
+  width: 32px;
+  height: 32px;
+  padding: 8px;
+  border-radius: 16px;
+  color: #8d8a99;
+  background-color: #f3f3f5;
+}
+.ExpandedAssignee-module_root__0EK-f .ExpandedAssignee-module_completed__n7JPd.ExpandedAssignee-module_on__1RkWA {
+  background-color: #eaf6e7;
+  color: #34a61c;
+}
+.ExpandedAssignee-module_root__0EK-f .ExpandedAssignee-module_completed__n7JPd .ExpandedAssignee-module_iconOverrides__G6r-U {
+  height: 100%;
+  width: 100%;
+}</style><style>.Tooltip-module_tooltip__LjRUX {
+  --font-size: 12px;
+  --line-height: 16px;
+  --vertical-padding: 4px;
+  font-size: var(--font-size);
+  font-family: var(--insite-font-family), sans-serif;
+  position: absolute;
+  background: #2f206a;
+  color: #fff;
+  line-height: var(--line-height);
+  padding: var(--vertical-padding) 8px;
+  font-style: normal;
+  box-shadow: 0 4px 8px rgba(47, 32, 106, 0.3294117647);
+  width: max-content;
+  text-align: center;
+  transition: all 0.2s ease-in-out;
+  font-weight: normal;
+  bottom: -8px;
+  left: 50%;
+  transform: translate(-50%, calc(100% + 8px));
+  box-sizing: border-box;
+  border-radius: 6px;
+  visibility: hidden;
+  opacity: 0;
+  user-select: none;
+  user-focus: none;
+  pointer-events: none;
+  z-index: 1;
+}
+.Tooltip-module_tooltip__LjRUX::before {
+  width: 0;
+  height: 0;
+  border-style: solid;
+  content: "";
+  position: absolute;
+  visibility: hidden;
+  opacity: 0;
+  transition: all 0.2s ease-in-out;
+  border-width: 0 8px 8px 8px;
+  border-color: transparent transparent #2f206a transparent;
+  bottom: calc(var(--line-height) + var(--font-size) - var(--vertical-padding));
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+.Tooltip-module_tooltip__LjRUX.Tooltip-module_open__dnGKq {
+  visibility: visible;
+  opacity: 1;
+  bottom: -4px;
+}
+.Tooltip-module_tooltip__LjRUX.Tooltip-module_open__dnGKq::before {
+  visibility: visible;
+  opacity: 1;
+}
+.Tooltip-module_container__mjRWG {
+  position: relative;
+  display: inline-block;
+}</style><style>.ProfilePicture-module_tooltipWrapper__-iL9a {
+  flex: 0 0;
+}
+
+.ProfilePicture-module_image__AV1nW {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+  background: white;
+}
+
+.ProfilePicture-module_clickable__F01Oi {
+  cursor: pointer;
+}</style><style>.UserBanner-module_root__-TzE3 {
+  width: 100%;
+}
+.UserBanner-module_root__-TzE3 .UserBanner-module_picture__6tKrj {
+  float: left;
+  margin-right: 16px;
+  height: 44px;
+  width: 44px;
+  padding: 2px;
+  transition: padding 0.2s ease-in-out;
+}
+.UserBanner-module_root__-TzE3 .UserBanner-module_picture__6tKrj:hover {
+  padding: 0;
+}
+.UserBanner-module_root__-TzE3 .UserBanner-module_userInfo__fMlQ7 {
+  margin: 0;
+  color: #999;
+}
+.UserBanner-module_root__-TzE3 .UserBanner-module_userInfo__fMlQ7 .UserBanner-module_displayName__uI9yA {
+  font-weight: bold;
+  line-height: 24px;
+  vertical-align: middle;
+  color: #2B2933;
+}
+.UserBanner-module_root__-TzE3 .UserBanner-module_userInfo__fMlQ7 .UserBanner-module_changed__qU2fl {
+  font-size: 12px;
+  line-height: 24px;
+  color: #2B2933;
+}
+.UserBanner-module_root__-TzE3 .UserBanner-module_jobTitle__Pt4SU {
+  margin: 0;
+  font-size: 12px;
+  line-height: 17px;
+  color: #2B2933;
+}</style><style>.AuthorFilter-module_authorFilter__s5-OL {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: center;
+  align-content: flex-start;
+  width: 432px;
+  border: 1px solid #c9c8cc;
+  border-radius: 8px;
+  background: #fff;
+  margin-top: 24px;
+  font-family: var(--insite-font-family), sans-serif;
+}
+.AuthorFilter-module_authorFilter__s5-OL .AuthorFilter-module_exitButton__EIK53 {
+  background-color: transparent;
+  color: var(--insite-primary-colour);
+  border-radius: 16px;
+  border: 0;
+  margin: 16px;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  cursor: pointer;
+}
+.AuthorFilter-module_authorFilter__s5-OL .AuthorFilter-module_exitButton__EIK53:hover, .AuthorFilter-module_authorFilter__s5-OL .AuthorFilter-module_exitButton__EIK53.AuthorFilter-module_open__vxTUF {
+  background-color: #e9e8f0;
+}
+.AuthorFilter-module_authorFilter__s5-OL .AuthorFilter-module_exitButton__EIK53:hover i, .AuthorFilter-module_authorFilter__s5-OL .AuthorFilter-module_exitButton__EIK53.AuthorFilter-module_open__vxTUF i {
+  color: #2f206a;
+}
+.AuthorFilter-module_authorFilter__s5-OL .AuthorFilter-module_exitButton__EIK53 i {
+  width: 10px;
+  height: 10px;
+  margin: 11px;
+  color: #8d8a99;
+}</style><style>.InsiteCreatePrompt-module_root__z-dfw {
+  box-sizing: border-box;
+  width: 432px;
+  font-family: var(--insite-font-family), sans-serif;
+  background-color: transparent;
+}
+
+.InsiteCreatePrompt-module_closed__NPd1o {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 16px;
+  padding: 16px;
+  border: 1px solid #c9c8cc;
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.0784313725);
+  cursor: pointer;
+}
+
+.InsiteCreatePrompt-module_closed__NPd1o .InsiteCreatePrompt-module_userPicture__z46Ig {
+  flex: 0 0;
+  height: 40px;
+  width: 40px;
+  object-fit: cover;
+  border-radius: 50%;
+  background: #4285f4;
+}
+
+.InsiteCreatePrompt-module_closed__NPd1o .InsiteCreatePrompt-module_placeholder__PB-xk {
+  flex: 1 1;
+  user-select: none;
+  color: #2b2933;
+  font-size: 16px;
+  background-color: #f3f3f5;
+  border: 1px solid #d9d7de;
+  border-radius: 4px;
+  padding: 8px 16px;
+}
+
+.InsiteCreatePrompt-module_closed__NPd1o .InsiteCreatePrompt-module_placeholder__PB-xk:hover {
+  border-color: #a7a5ab;
+}
+
+.InsiteCreatePrompt-module_open__x3tcV {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: stretch;
+  align-items: stretch;
+  gap: 16px;
+  padding: 11px 16px 16px 16px;
+  border: 1px solid var(--insite-primary-colour);
+  border-radius: 8px;
+  background: #ffffff;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.0784313725);
+}
+
+.InsiteCreatePrompt-module_top__JF6wS {
+  flex: 1 1;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: stretch;
+  align-items: center;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 11px;
+}
+
+.InsiteCreatePrompt-module_top__JF6wS .InsiteCreatePrompt-module_title__vc-nO {
+  flex: 1 1 100%;
+  font-weight: bold;
+}
+
+.InsiteCreatePrompt-module_top__JF6wS .InsiteCreatePrompt-module_close__U6DfO {
+  flex: 0 0 32px;
+  width: 32px;
+  height: 32px;
+  border: 0;
+  background-color: transparent;
+  color: #8d8a99;
+  border-radius: 50%;
+  cursor: pointer;
+  line-height: 32px;
+}
+
+.InsiteCreatePrompt-module_top__JF6wS .InsiteCreatePrompt-module_close__U6DfO:hover {
+  background-color: #e9e8f0;
+  color: var(--insite-primary-colour);
+}
+
+.InsiteCreatePrompt-module_top__JF6wS .InsiteCreatePrompt-module_close__U6DfO .InsiteCreatePrompt-module_iconOverride__j4bHt {
+  height: 12px;
+  width: 12px;
+}
+
+.InsiteCreatePrompt-module_userInfo__rNf7h {
+  flex: 1 1;
+  width: 100%;
+}
+
+.InsiteCreatePrompt-module_userInfo__rNf7h .InsiteCreatePrompt-module_userPicture__z46Ig {
+  float: left;
+  height: 40px;
+  width: 40px;
+  margin-right: 16px;
+  object-fit: cover;
+  border-radius: 50%;
+  background: #4285f4;
+}
+
+.InsiteCreatePrompt-module_userInfo__rNf7h .InsiteCreatePrompt-module_userDisplayName__xbGVJ {
+  margin: 0;
+  font-weight: bold;
+  line-height: 24px;
+}
+
+.InsiteCreatePrompt-module_userInfo__rNf7h .InsiteCreatePrompt-module_userJobTitle__PpQgW {
+  margin: 0;
+  font-size: 12px;
+  line-height: 17px;
+}
+
+.InsiteCreatePrompt-module_growWrap__L2xfZ {
+  flex: 1 0 100%;
+  display: grid;
+}
+
+.InsiteCreatePrompt-module_growWrap__L2xfZ::after,
+.InsiteCreatePrompt-module_growWrap__L2xfZ .InsiteCreatePrompt-module_promptInput__vHlZz {
+  grid-area: 1/1/2/2;
+  line-height: 1.5;
+  font-family: var(--insite-font-family), sans-serif;
+  font-size: 16px;
+  padding: 12px;
+  border: 1px solid transparent;
+  border-radius: 8px;
+  overflow-wrap: anywhere;
+}
+
+.InsiteCreatePrompt-module_growWrap__L2xfZ::after {
+  /* Note the weird space! Needed to prevent jumpy behavior */
+  content: attr(data-replicated-value) " ";
+  /* This is how textarea text behaves */
+  white-space: pre-wrap;
+  /* Hidden from view, clicks, and screen readers */
+  visibility: hidden;
+}
+
+.InsiteCreatePrompt-module_growWrap__L2xfZ .InsiteCreatePrompt-module_promptInput__vHlZz {
+  background: #f3f3f5;
+  color: #999;
+  border-color: #d9d7de;
+  resize: none;
+  overflow: hidden;
+}
+
+.InsiteCreatePrompt-module_growWrap__L2xfZ .InsiteCreatePrompt-module_promptInput__vHlZz:focus {
+  outline: none;
+  background: #fff;
+  color: #2b2933;
+  border-color: #a7a5ab;
+}
+
+.InsiteCreatePrompt-module_assignment__YnizT {
+  flex: 1 0 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+  align-content: flex-start;
+  padding: 4px 12px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: #f3f3f5;
+  color: #999;
+}
+
+.InsiteCreatePrompt-module_assignment__YnizT:hover {
+  border-color: #a7a5ab;
+}
+
+.InsiteCreatePrompt-module_assignment__YnizT:focus-within {
+  background: #ffffff;
+  border-color: #2f206a;
+}
+
+.InsiteCreatePrompt-module_assignment__YnizT .InsiteCreatePrompt-module_assigneeSearch__SnDk9 {
+  flex: 1 1 auto;
+  font-size: 14px;
+  width: 6em;
+  height: 30px;
+  background: transparent;
+  border: 0;
+}
+
+.InsiteCreatePrompt-module_assignment__YnizT .InsiteCreatePrompt-module_assigneeSearch__SnDk9:focus {
+  outline: 0;
+}
+
+.InsiteCreatePrompt-module_assignees__qX19D {
+  margin: -9px 0 0 0;
+  padding: 8px 0;
+  background-color: white;
+  border: 1px solid #ddd;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.16);
+  border-radius: 8px;
+}
+
+.InsiteCreatePrompt-module_actions__TwuiN {
+  flex: 0 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.InsiteCreatePrompt-module_assignmentMode__OqULq {
+  flex: 0 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 0;
+  border-radius: 8px;
+  height: 32px;
+  width: 32px;
+  background-color: white;
+  cursor: pointer;
+}
+
+.InsiteCreatePrompt-module_assignmentMode__OqULq:hover, .InsiteCreatePrompt-module_assignmentMode__OqULq.InsiteCreatePrompt-module_active__QzIcd {
+  background-color: #e9e8f0;
+}
+
+.InsiteCreatePrompt-module_assignmentMode__OqULq:hover .InsiteCreatePrompt-module_userPlusIcon__bSOER, .InsiteCreatePrompt-module_assignmentMode__OqULq.InsiteCreatePrompt-module_active__QzIcd .InsiteCreatePrompt-module_userPlusIcon__bSOER {
+  color: #2f206a;
+}
+
+.InsiteCreatePrompt-module_assignmentMode__OqULq.InsiteCreatePrompt-module_active__QzIcd:hover {
+  background-color: #d5d2e1;
+}
+
+.InsiteCreatePrompt-module_assignmentMode__OqULq .InsiteCreatePrompt-module_userPlusIcon__bSOER {
+  width: 16px;
+  color: #8d8a99;
+}
+
+button.InsiteCreatePrompt-module_submit__vJ7-c {
+  flex: 0 0;
+  background: none;
+  border: 1px solid var(--insite-primary-colour);
+  color: var(--insite-primary-colour);
+  border-radius: 4px;
+  font-size: 14px;
+  padding: 8px 24px;
+  cursor: pointer;
+}
+
+button.InsiteCreatePrompt-module_submit__vJ7-c:hover {
+  background-color: #f3f3f5;
+}
+
+button.InsiteCreatePrompt-module_submit__vJ7-c:disabled {
+  border-color: #d9d7de;
+  color: #8d8a99;
+  background-color: #f3f3f5;
+  cursor: not-allowed;
+}
+
+.InsiteCreatePrompt-module_assigneeOverrides__A7Ycp {
+  user-select: none;
+  cursor: pointer;
+  padding: 9px 12px;
+}
+
+.InsiteCreatePrompt-module_assigneeOverrides__A7Ycp:last-child {
+  margin-bottom: 0;
+}
+
+.InsiteCreatePrompt-module_assigneeOverrides__A7Ycp:hover {
+  background-color: #f3f3f5;
+}
+
+.InsiteCreatePrompt-module_assigneeTokenOverrides__XiYuG {
+  padding-right: 0;
+  background-color: white;
+}</style><style>.AssigneeToken-module_root__3BLG0 {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 0 0 4px;
+  border: 1px solid #d9d7de;
+  border-radius: 16px;
+  background-color: #ffffff;
+  font-size: 12px;
+  color: #2b2933;
+  line-height: 30px;
+  vertical-align: middle;
+  white-space: nowrap;
+  max-width: 258px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.AssigneeToken-module_close__UcCRo {
+  width: 30px;
+  height: 30px;
+  border: 0;
+  background-color: transparent;
+  padding-left: 0;
+  color: #333;
+  cursor: pointer;
+}
+
+.AssigneeToken-module_close__UcCRo .AssigneeToken-module_iconOverride__zAdSc {
+  width: 16px;
+  height: 16px;
+  vertical-align: bottom;
+  border-radius: 8px;
+}
+
+.AssigneeToken-module_close__UcCRo .AssigneeToken-module_iconOverride__zAdSc svg {
+  width: 8px;
+  height: 8px;
+  margin: 4px;
+}
+
+.AssigneeToken-module_close__UcCRo:hover .AssigneeToken-module_iconOverride__zAdSc {
+  background: #f0e9eb;
+}
+
+.AssigneeToken-module_close__UcCRo:hover .AssigneeToken-module_iconOverride__zAdSc svg {
+  color: #ed2f74;
+}
+
+.AssigneeToken-module_checkIcon__3Kbp9 {
+  width: 16px;
+  height: 16px;
+  border-radius: 8px;
+  color: #34a61c;
+  vertical-align: text-bottom;
+  margin-right: 8px;
+}
+
+.AssigneeToken-module_picture__RN5z9 {
+  display: inline-block;
+  vertical-align: bottom;
+  height: 24px;
+  width: 24px;
+  margin-right: 8px;
+  border-radius: 50%;
+}
+
+.AssigneeToken-module_displayName__SWV0M {
+  margin-right: 8px;
+  vertical-align: text-bottom;
+}</style><style>.SubPrompt-module_root__0TlZg {
+  border: 1px solid #d9d7de;
+  border-radius: 8px;
+  background-color: #f3f3f5;
+  padding: 16px;
+  position: relative;
+}
+
+.SubPrompt-module_note__s76KP {
+  margin: 16px 0 0 0;
+  white-space: pre-wrap;
+  overflow-wrap: break-word;
+}
+
+.SubPrompt-module_quoteTooltip__bRi3V {
+  position: absolute;
+  right: 16px;
+  top: 16px;
+}
+
+.SubPrompt-module_quoteTooltip__bRi3V .SubPrompt-module_quoteButton__WoPkx {
+  width: 32px;
+  height: 32px;
+  user-select: none;
+  background: transparent;
+  cursor: pointer;
+  border: 0;
+  border-radius: 8px;
+  text-align: center;
+  color: #666;
+  line-height: 0;
+}
+
+.SubPrompt-module_quoteTooltip__bRi3V .SubPrompt-module_quoteButton__WoPkx:hover, .SubPrompt-module_quoteTooltip__bRi3V .SubPrompt-module_quoteButton__WoPkx.SubPrompt-module_open__BfncE {
+  background-color: #e9e8f0;
+  color: var(--insite-primary-colour);
+}
+
+.SubPrompt-module_quoteTooltip__bRi3V .SubPrompt-module_quoteButton__WoPkx .SubPrompt-module_iconOverrides__gE1it {
+  width: 16px;
+}
+
+.SubPrompt-module_ownNoteHeader__zB4CU {
+  border-bottom: 1px solid #ddd;
+  padding-top: 8px;
+  padding-bottom: 16px;
+  font-size: 12px;
+  line-height: 24px;
+  color: #2B2933;
+}</style><style>.InsiteAssigneeList-module_assignees__wYO8e {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 8px;
+  padding: 12.5px 0 0 0;
+  margin-top: 12.5px;
+  border-top: 1px solid #ddd;
+}
+.InsiteAssigneeList-module_assignees__wYO8e.InsiteAssigneeList-module_expanded__eQh1y {
+  flex-direction: column;
+}
+.InsiteAssigneeList-module_assignees__wYO8e .InsiteAssigneeList-module_label__1QdJi {
+  flex: 0 0 auto;
+  font-size: 12px;
+  color: #8d8a99;
+  user-select: none;
+}
+.InsiteAssigneeList-module_assignees__wYO8e .InsiteAssigneeList-module_user-picture__zVXbU {
+  flex: 0 0;
+  height: 40px;
+  width: 40px;
+  object-fit: cover;
+  border-radius: 50%;
+  background: white;
+  border: 2px solid white;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1607843137);
+}
+.InsiteAssigneeList-module_assignees__wYO8e .InsiteAssigneeList-module_userList__5lwkj {
+  flex: 1 1 auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 8px;
+  max-height: 32px;
+  overflow: hidden;
+}
+.InsiteAssigneeList-module_assignees__wYO8e .InsiteAssigneeList-module_user-token__QmHwh {
+  display: inline-block;
+  padding: 0 12px 0 12px;
+  border: 1px solid #d9d7de;
+  border-radius: 16px;
+  background-color: #f3f3f5;
+  font-size: 12px;
+  color: #2b2933;
+  line-height: 22px;
+  vertical-align: middle;
+  white-space: nowrap;
+  max-width: 258px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.InsiteAssigneeList-module_assignees__wYO8e .InsiteAssigneeList-module_overflowCount__ZFO8I {
+  flex: 0 0 auto;
+  height: 24px;
+  width: 24px;
+  background-color: #f3f3f5;
+  border: 1px solid #d9d7de;
+  border-radius: 50%;
+  padding: 0;
+  color: #2b2933;
+  font-size: 12px;
+  line-height: 24px;
+  vertical-align: middle;
+  text-align: center;
+  white-space: nowrap;
+}
+.InsiteAssigneeList-module_assignees__wYO8e .InsiteAssigneeList-module_noOverflow__5tiNK {
+  display: none;
+}
+.InsiteAssigneeList-module_assignees__wYO8e .InsiteAssigneeList-module_expandButton__uXVrC {
+  flex: 0 0 auto;
+  height: 26px;
+  width: 26px;
+  background-color: #ffffff;
+  border: 1px solid #d9d7de;
+  border-radius: 50%;
+  padding: 0;
+  cursor: pointer;
+}
+.InsiteAssigneeList-module_assignees__wYO8e .InsiteAssigneeList-module_expandButton__uXVrC:hover {
+  background-color: #e9e8f0;
+  border-color: #c0bec4;
+}
+.InsiteAssigneeList-module_assignees__wYO8e .InsiteAssigneeList-module_expandButton__uXVrC:hover .InsiteAssigneeList-module_pointerIcon__z5fZ7 {
+  color: var(--insite-primary-colour);
+}
+.InsiteAssigneeList-module_assignees__wYO8e .InsiteAssigneeList-module_expandButton__uXVrC .InsiteAssigneeList-module_pointerIcon__z5fZ7 {
+  height: 12px;
+  width: 12px;
+  color: #8d8a99;
+  transform: translateY(1px);
+}
+.InsiteAssigneeList-module_assignees__wYO8e.InsiteAssigneeList-module_expanded__eQh1y .InsiteAssigneeList-module_expandButton__uXVrC .InsiteAssigneeList-module_pointerIcon__z5fZ7 {
+  rotate: 180deg;
+  transform: translate(0px, 0px);
+}
+.InsiteAssigneeList-module_assignees__wYO8e .InsiteAssigneeList-module_actions__IHCLF {
+  width: 100%;
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+}</style><style>.OverlayDialog-module_root__3CG65 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 1;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.OverlayDialog-module_dialog__xbCnv {
+  position: relative;
+  flex: 0 1 auto;
+  min-width: 490px;
+  background: #fff;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3215686275);
+  border-radius: 8px;
+}
+
+.OverlayDialog-module_message__UC4fD {
+  font-size: 16px;
+  color: #333;
+  font-weight: bold;
+  font-family: var(--insite-font-family), sans-serif;
+}
+
+.OverlayDialog-module_close__Vo-yv {
+  position: absolute;
+  display: flex;
+  top: 18px;
+  right: 18px;
+  width: 24px;
+  height: 24px;
+  background: transparent;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+}
+
+.OverlayDialog-module_closeIconOverrides__s3Vl4 {
+  width: 12px;
+  height: 12px;
+  margin: 6px;
+  color: #8d8a99;
+}
+
+.OverlayDialog-module_line__xZCDa {
+  margin: 24px;
+  background-color: #d9d7de;
+  border: none;
+  height: 1px;
+}
+
+.OverlayDialog-module_actions__Y-BX7 {
+  display: flex;
+  justify-content: flex-end;
+  margin: 24px;
+}
+
+.OverlayDialog-module_button__3G5m- {
+  border-radius: 4px;
+  border: 1px solid #d9d7de;
+  background-color: #fff;
+  padding: 10px 20px;
+  min-width: 120px;
+  cursor: pointer;
+}
+
+.OverlayDialog-module_button__3G5m-:first-child {
+  margin-right: 16px;
+}
+
+.OverlayDialog-module_button__3G5m-:hover {
+  background-color: #d9d7de;
+  border-color: #d9d7de;
+  color: #2b2933;
+}
+
+.OverlayDialog-module_button__3G5m-.OverlayDialog-module_buttonPrimary__vDdDm {
+  background-color: #34a61c;
+  border-color: #34a61c;
+  color: #fff;
+}
+
+.OverlayDialog-module_button__3G5m-.OverlayDialog-module_buttonPrimary__vDdDm:hover {
+  background-color: #3cbf20;
+  border-color: #34a61c;
+  color: #fff;
+}</style><style>.InsitePrompt-module_root__C9na8 {
+  box-sizing: border-box;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: stretch;
+  align-items: center;
+  border: 1px solid #ddd;
+  border-radius: 0 8px 8px 8px;
+  background: white;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.0784313725);
+  padding: 16px;
+  margin: 24px auto;
+  width: 432px;
+  transition: opacity 300ms ease-in-out;
+  opacity: 1;
+  font-family: var(--insite-font-family), sans-serif;
+}
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_hiding__sJPdW {
+  opacity: 0;
+  pointer-events: none;
+}
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_inner__wleXK {
+  width: 100%;
+}
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_colour__EEo8B {
+  position: absolute;
+  left: -3px;
+  top: -12px;
+  width: 0;
+  height: 0;
+  border-top: 18px solid transparent;
+  border-bottom: 18px solid transparent;
+  border-right: 18px solid #98b7f4;
+  transform: rotate(45deg);
+  transition: border-right-color 1s;
+}
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_colour__EEo8B.InsitePrompt-module_assigned__h6Ou9 {
+  border-right-color: #99d28d;
+  opacity: 1;
+}
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_colour__EEo8B.InsitePrompt-module_unassigned__UNpZB {
+  border-right-color: #f4d598;
+  opacity: 1;
+}
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_quoteTooltip__mcy-v {
+  position: absolute;
+  right: 16px;
+  top: 16px;
+}
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_quoteTooltip__mcy-v .InsitePrompt-module_quoteButton__HnLB- {
+  width: 32px;
+  height: 32px;
+  user-select: none;
+  background: transparent;
+  cursor: pointer;
+  border: 0;
+  border-radius: 8px;
+  text-align: center;
+  color: #666;
+  line-height: 0;
+}
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_quoteTooltip__mcy-v .InsitePrompt-module_quoteButton__HnLB-:hover, .InsitePrompt-module_root__C9na8 .InsitePrompt-module_quoteTooltip__mcy-v .InsitePrompt-module_quoteButton__HnLB-.InsitePrompt-module_open__jQVVb {
+  background-color: #e9e8f0;
+  color: var(--insite-primary-colour);
+}
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_quoteTooltip__mcy-v .InsitePrompt-module_quoteButton__HnLB- .InsitePrompt-module_iconOverrides__qsBQ3 {
+  width: 16px;
+}
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_body__UI180 {
+  flex: 1 1 100%;
+}
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_body__UI180 .InsitePrompt-module_note__GDq94 {
+  margin: 16px 0;
+  white-space: pre-wrap;
+  overflow-wrap: break-word;
+}
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_body__UI180 .InsitePrompt-module_context__vWw7G {
+  margin: 16px 0;
+  font-size: 14px;
+  line-height: 24px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_body__UI180 .InsitePrompt-module_context__vWw7G .InsitePrompt-module_label__zNks9 {
+  font-weight: bold;
+}
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_info__e0SCN {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-end;
+  align-items: center;
+  width: 100%;
+  border-top: 1px solid #ddd;
+  padding: 8px 0;
+}
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_footer__MQCgJ {
+  flex: 1 1 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+  border-top: 1px solid #ddd;
+  padding: 12.5px 0 0 0;
+}
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_actions__VPgce {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: center;
+}
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_actions__VPgce .InsitePrompt-module_action__Ks-Ux {
+  flex: 0 0;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+  align-items: center;
+  border-right: 1px solid #ddd;
+  height: 23px;
+  overflow: visible;
+}
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_actions__VPgce .InsitePrompt-module_action__Ks-Ux:last-child {
+  border-right: 0;
+}
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_actions__VPgce .InsitePrompt-module_actionButtonWrapper__Osaqo {
+  flex: 0 0;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_actions__VPgce .InsitePrompt-module_complete__BULcl,
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_actions__VPgce .InsitePrompt-module_flag__a1VMC,
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_actions__VPgce .InsitePrompt-module_hide__-QIVq {
+  position: relative;
+  padding: 8px;
+  background: transparent;
+  cursor: pointer;
+  border: 0;
+  border-radius: 8px;
+  color: #8d8a99;
+  line-height: 0;
+}
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_actions__VPgce .InsitePrompt-module_complete__BULcl:hover, .InsitePrompt-module_root__C9na8 .InsitePrompt-module_actions__VPgce .InsitePrompt-module_complete__BULcl.InsitePrompt-module_open__jQVVb,
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_actions__VPgce .InsitePrompt-module_flag__a1VMC:hover,
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_actions__VPgce .InsitePrompt-module_flag__a1VMC.InsitePrompt-module_open__jQVVb,
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_actions__VPgce .InsitePrompt-module_hide__-QIVq:hover,
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_actions__VPgce .InsitePrompt-module_hide__-QIVq.InsitePrompt-module_open__jQVVb {
+  color: var(--insite-primary-colour);
+  background-color: #e9e8f0;
+}
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_actions__VPgce .InsitePrompt-module_complete__BULcl .InsitePrompt-module_iconOverrides__qsBQ3,
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_actions__VPgce .InsitePrompt-module_flag__a1VMC .InsitePrompt-module_iconOverrides__qsBQ3,
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_actions__VPgce .InsitePrompt-module_hide__-QIVq .InsitePrompt-module_iconOverrides__qsBQ3 {
+  width: 16px;
+  height: 16px;
+}
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_actions__VPgce .InsitePrompt-module_complete__BULcl {
+  margin-left: 0;
+}
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_actions__VPgce .InsitePrompt-module_complete__BULcl:hover {
+  color: #34a61c;
+  background-color: #eaf6e7;
+}
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_actions__VPgce .InsitePrompt-module_complete__BULcl.InsitePrompt-module_on__NtMnV {
+  color: #34a61c;
+  background-color: #eaf6e7;
+}
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_actions__VPgce .InsitePrompt-module_complete__BULcl.InsitePrompt-module_on__NtMnV:hover {
+  background-color: #d6edd1;
+}
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_actions__VPgce .InsitePrompt-module_flag__a1VMC:hover {
+  color: #ed2f74;
+  background-color: #fde9f1;
+}
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_actions__VPgce .InsitePrompt-module_flag__a1VMC.InsitePrompt-module_on__NtMnV {
+  color: #ed2f74;
+  background-color: #fde9f1;
+}
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_actions__VPgce .InsitePrompt-module_flag__a1VMC.InsitePrompt-module_on__NtMnV:hover {
+  background-color: #fcd5e3;
+}
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_actions__VPgce .InsitePrompt-module_hide__-QIVq {
+  padding: 7px;
+}
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_actions__VPgce .InsitePrompt-module_hide__-QIVq:hover {
+  color: #3270ea;
+  background-color: #eaf0fd;
+}
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_actions__VPgce .InsitePrompt-module_hide__-QIVq.InsitePrompt-module_on__NtMnV {
+  color: #3270ea;
+  background-color: #eaf0fd;
+}
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_actions__VPgce .InsitePrompt-module_hide__-QIVq.InsitePrompt-module_on__NtMnV:hover {
+  background-color: #d6e2fb;
+}
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_actions__VPgce .InsitePrompt-module_hide__-QIVq .InsitePrompt-module_iconOverrides__qsBQ3 {
+  width: 18px;
+  height: 18px;
+}
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_actions__VPgce .InsitePrompt-module_service-icon__KsjSl {
+  flex: 0 0;
+  display: none;
+  margin-left: 8px;
+}
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_changed__4rNSJ {
+  flex: 0 0 auto;
+  text-align: right;
+  font-size: 12px;
+  font-weight: 600;
+}
+.InsitePrompt-module_root__C9na8 .InsitePrompt-module_changed__4rNSJ .InsitePrompt-module_due-date-label__iZfT5 {
+  margin-right: 0.3em;
+  font-weight: 400;
+  color: #999;
+}
+.InsitePrompt-module_loading__2MYt- {
+  visibility: hidden;
+  height: 180px;
+}
+.InsitePrompt-module_hidden__3qS8u {
+  display: none;
+}
+.InsitePrompt-module_assignMenuItem__LaIgj {
+  list-style: none;
+  padding: 8px 0 8px 0;
+  cursor: pointer;
+  user-select: none;
+}
+.InsitePrompt-module_assignMenuItem__LaIgj:hover {
+  background: #f3f3f5;
+}
+.InsitePrompt-module_assignMenuItem__LaIgj .InsitePrompt-module_iconOverrides__qsBQ3 {
+  width: 16px;
+  height: 16px;
+  margin: 0 16px;
+  vertical-align: sub;
+}
+.InsitePrompt-module_assignMenuOverrides__FHrN2 {
+  position: absolute;
+  right: 16px;
+  top: 50px;
+}
+.InsitePrompt-module_subPromptOverrides__E5MkH {
+  margin-bottom: 16px;
+}
+.InsitePrompt-module_ownNoteHeader__N4zjp {
+  border-bottom: 1px solid #ddd;
+  padding-top: 8px;
+  padding-bottom: 16px;
+  font-size: 12px;
+  line-height: 24px;
+  color: #2b2933;
+}
+.InsitePrompt-module_userBanner__pjBrt {
+  padding-bottom: 16px;
+  border-bottom: 1px solid #ddd;
+}
+.InsitePrompt-module_pageLink__yZ7sC {
+  color: #165F82;
+  text-decoration: underline;
+}
+.InsitePrompt-module_pageLink__yZ7sC:hover {
+  text-decoration: none;
+}
+.InsitePrompt-module_pageLink__yZ7sC:visited {
+  color: #2F206A;
+}</style><style>.LoadingAnimation-module_root__SKJ-X {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  width: 100%;
+  margin: 24px 0;
+}
+
+.LoadingAnimation-module_loader-ball-37__3MbOq {
+  display: inline-block;
+  position: relative;
+  width: 60px;
+  height: 12px;
+}
+
+.LoadingAnimation-module_loader-ball-37__3MbOq div {
+  position: absolute;
+  top: 0;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  animation-timing-function: cubic-bezier(0, 1, 1, 0);
+}
+
+.LoadingAnimation-module_loader-ball-37__3MbOq div:nth-child(1) {
+  background: #ED2F74;
+  left: 8px;
+  animation: LoadingAnimation-module_anm-BL37-dots1__KvqHO 0.6s infinite;
+}
+
+.LoadingAnimation-module_loader-ball-37__3MbOq div:nth-child(2) {
+  background: #EAAC32;
+  left: 8px;
+  animation: LoadingAnimation-module_anm-BL37-dots2__gNL3V 0.6s infinite;
+}
+
+.LoadingAnimation-module_loader-ball-37__3MbOq div:nth-child(3) {
+  background: #2F206A;
+  left: 32px;
+  animation: LoadingAnimation-module_anm-BL37-dots2__gNL3V 0.6s infinite;
+}
+
+.LoadingAnimation-module_loader-ball-37__3MbOq div:nth-child(4) {
+  background: #34A61C;
+  left: 56px;
+  animation: LoadingAnimation-module_anm-BL37-dots3__Vpf82 0.6s infinite;
+}
+
+@keyframes LoadingAnimation-module_anm-BL37-dots1__KvqHO {
+  0% {
+    transform: scale(0);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes LoadingAnimation-module_anm-BL37-dots2__gNL3V {
+  0% {
+    transform: translate(0, 0);
+  }
+  100% {
+    transform: translate(24px, 0);
+  }
+}
+
+@keyframes LoadingAnimation-module_anm-BL37-dots3__Vpf82 {
+  0% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(0);
+  }
+}</style><style>.NoPromptsMessage-module_root__mqVPN {
+  margin: 48px auto;
+  width: 432px;
+  text-align: center;
+}
+
+.NoPromptsMessage-module_image__VzMhT {
+  width: 80px;
+}
+
+.NoPromptsMessage-module_heading__rjieN {
+  font-size: 24px;
+}</style><style>.InsitePromptList-module_root__CO7oB {
+  box-sizing: border-box;
+  flex: 1 1 auto;
+  width: 100%;
+  margin-top: 24px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  scrollbar-gutter: stable both-edges;
+  scrollbar-width: thin;
+}
+.InsitePromptList-module_root__CO7oB .InsitePromptList-module_firstPrompt__W-9Wj {
+  margin-top: 0;
+}
+.InsitePromptList-module_root__CO7oB .InsitePromptList-module_endOfFeed__n-FFu {
+  background-color: #f3f3f5;
+  height: 1px;
+  border: 0;
+}
+.InsitePromptList-module_root__CO7oB .InsitePromptList-module_prompt__3PDRe:first-child {
+  margin-top: 0;
+}
+.InsitePromptList-module_loading__Ie9ve {
+  text-align: center;
+  margin-top: 20px;
+  color: #333;
+  font-size: 14px;
+}
+.InsitePromptList-module_loadMoreButton__21MyS {
+  background: none;
+  border: 1px solid var(--insite-primary-colour);
+  border-radius: 4px;
+  font-size: 14px;
+  padding: 8px 24px;
+  margin: 20px calc(50% - 60px);
+  width: 120px;
+  cursor: pointer;
+}
+.InsitePromptList-module_loadMoreButton__21MyS:hover {
+  background-color: rgba(47, 32, 106, 0.0509803922);
+}
+.InsitePromptList-module_loadingAnimation__U-S7l {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  width: 100%;
+  margin: 24px 0;
+}
+.InsitePromptList-module_loadingAnimation__U-S7l.InsitePromptList-module_hidden__uELCN {
+  opacity: 0;
+}</style><style>/* open-sans-latin-300-normal */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src: url("chrome-extension://mikkepilnmobijmobpanoeoenmgiegkc/fonts/open-sans-latin-300-normal.woff2") format('woff2'), url("chrome-extension://mikkepilnmobijmobpanoeoenmgiegkc/fonts/open-sans-latin-300-normal.woff") format('woff');
+}
+/* open-sans-latin-400-normal */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url("chrome-extension://mikkepilnmobijmobpanoeoenmgiegkc/fonts/open-sans-latin-400-normal.woff2") format('woff2'), url("chrome-extension://mikkepilnmobijmobpanoeoenmgiegkc/fonts/open-sans-latin-400-normal.woff") format('woff');
+}
+/* open-sans-latin-500-normal */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url("chrome-extension://mikkepilnmobijmobpanoeoenmgiegkc/fonts/open-sans-latin-500-normal.woff2") format('woff2'), url("chrome-extension://mikkepilnmobijmobpanoeoenmgiegkc/fonts/open-sans-latin-500-normal.woff") format('woff');
+}
+/* open-sans-latin-600-normal */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url("chrome-extension://mikkepilnmobijmobpanoeoenmgiegkc/fonts/open-sans-latin-600-normal.woff2") format('woff2'), url("chrome-extension://mikkepilnmobijmobpanoeoenmgiegkc/fonts/open-sans-latin-600-normal.woff") format('woff');
+}
+/* open-sans-latin-700-normal */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url("chrome-extension://mikkepilnmobijmobpanoeoenmgiegkc/fonts/open-sans-latin-700-normal.woff2") format('woff2'), url("chrome-extension://mikkepilnmobijmobpanoeoenmgiegkc/fonts/open-sans-latin-700-normal.woff") format('woff');
+}
+/* open-sans-latin-800-normal */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src: url("chrome-extension://mikkepilnmobijmobpanoeoenmgiegkc/fonts/open-sans-latin-800-normal.woff2") format('woff2'), url("chrome-extension://mikkepilnmobijmobpanoeoenmgiegkc/fonts/open-sans-latin-800-normal.woff") format('woff');
+}
+:host, body {
+  --insite-font-family: "Open Sans";
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  box-sizing: border-box;
+}
+* {
+  box-sizing: border-box;
+}</style><style>.Switch-module_root__DmzxH {
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: center;
+  cursor: pointer;
+}
+
+.Switch-module_input__G85Dv {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  position: relative;
+  font-size: inherit;
+  width: 32px;
+  height: 14px;
+  box-sizing: content-box;
+  border: 0;
+  border-radius: 1em;
+  vertical-align: text-bottom;
+  margin: auto;
+  color: inherit;
+  background: #C0BEC4;
+  cursor: pointer;
+}
+
+.Switch-module_input__G85Dv:checked {
+  background: #2F206A;
+}
+
+.Switch-module_input__G85Dv::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translate(0, -50%);
+  box-sizing: border-box;
+  width: 16px;
+  height: 16px;
+  margin: 0;
+  border: 1px solid #D9D7DE;
+  border-radius: 50%;
+  background: #fff;
+  transition: left 0.1s;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1607843137);
+}
+
+.Switch-module_input__G85Dv:checked::before {
+  left: 50%;
+}
+
+.Switch-module_label__T-0Mn {
+  cursor: pointer;
+}</style><style>.InsiteSidebar-module_root__soBBU {
+  box-sizing: border-box;
+  pointer-events: auto;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: stretch;
+  background-color: #f3f3f5;
+}
+
+.InsiteSidebar-module_frameInner__AcrCb {
+  --insite-primary-colour: #2f206a;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: center;
+  align-content: flex-start;
+  font-family: var(--insite-font-family), sans-serif;
+  font-weight: normal;
+  font-size: 16px;
+  color: #333;
+}
+
+.InsiteSidebar-module_modeSidebar__-XiF4 {
+  width: 480px;
+  box-shadow: none;
+  transition: box-shadow 0.6s;
+}
+
+.InsiteSidebar-module_modeSidebar__-XiF4 .InsiteSidebar-module_navigation__hPKkh .InsiteSidebar-module_home__TVFyx {
+  flex: 0 0 27px;
+  width: 27px;
+  height: 24px;
+  background-color: transparent;
+  padding: 0;
+  cursor: pointer;
+  color: #333333;
+  border: 0;
+}
+
+.InsiteSidebar-module_modeSidebar__-XiF4 .InsiteSidebar-module_navigation__hPKkh .InsiteSidebar-module_logo__9MGEl {
+  flex: 0 0 auto;
+  height: 24px;
+  margin: 0 16px;
+  cursor: pointer;
+}
+
+.InsiteSidebar-module_modeHome__cvOM- {
+  width: 100%;
+  grid-column: 3/13;
+  box-shadow: none !important;
+}
+
+@media (min-width: 1600px) {
+  .InsiteSidebar-module_modeHome__cvOM- {
+    grid-column: 5/9;
+  }
+}
+
+.InsiteSidebar-module_open__7P1AF {
+  box-shadow: -16px 0px 32px rgba(0, 0, 0, 0.16);
+}
+
+.InsiteSidebar-module_frame__Fdwxe {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.InsiteSidebar-module_loadingAnimation__m53h2 {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  width: 100%;
+  margin: 24px 0;
+}
+
+.InsiteSidebar-module_navigation__hPKkh {
+  width: 432px;
+  margin: 24px auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.InsiteSidebar-module_feedTitle__gZ7pR {
+  font-size: 24px;
+  margin: 0;
+}
+
+.InsiteSidebar-module_hiddenFilter__qbBqX {
+  border-radius: 36px;
+  padding: 8px;
+}
+
+.InsiteSidebar-module_hiddenFilter__qbBqX:hover {
+  background-color: #E9E8F0;
+}
+
+.InsiteSidebar-module_hiddenFilterLabel__3tmd7 {
+  margin-right: 8px;
+  font-size: 12px;
+}</style><style>.AddUserDialog-module_wrapper__iQIBE {
+  display: flex;
+  flex-direction: column;
+}
+
+.AddUserDialog-module_heading__45oXv {
+  color: #2B2933;
+  font-size: 24px;
+  line-height: 32px;
+  margin-left: 24px;
+}
+
+.AddUserDialog-module_label__jhTSr {
+  color: #2B2933;
+  font-size: 16px;
+  line-height: 24px;
+  margin-left: 24px;
+  margin-bottom: 8px;
+}
+
+.AddUserDialog-module_input__-YcU9 {
+  line-height: 40px;
+  border: 1px solid #D9D7DE;
+  background-color: #F3F3F5;
+  border-radius: 8px;
+  margin: 0 24px 24px 24px;
+  padding: 0 8px;
+}
+
+.AddUserDialog-module_input__-YcU9:hover {
+  border-color: #A7A5AB;
+}
+
+.AddUserDialog-module_input__-YcU9:focus {
+  background-color: #FFFFFF;
+  border-color: #2F206A;
+  outline: none;
+}</style><style>.NoContactsMessage-module_root__EqcYl {
+  margin: 48px auto;
+  width: 432px;
+  text-align: center;
+}
+
+.NoContactsMessage-module_image__WFmXA {
+  width: 160px;
+}
+
+.NoContactsMessage-module_heading__ClW6T {
+  font-size: 24px;
+}</style><style>.UserAddedDialog-module_wrapper__-0rjt {
+  display: flex;
+  flex-direction: column;
+}
+
+.UserAddedDialog-module_heading__BI7P9 {
+  color: #2B2933;
+  font-size: 24px;
+  line-height: 32px;
+  margin-left: 24px;
+  margin-bottom: 0;
+}
+
+.UserAddedDialog-module_body__nwaKg {
+  margin: 0 24px;
+}</style><style>.UserPrompt-module_root__jm-ha {
+  box-sizing: border-box;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: stretch;
+  align-items: center;
+  border: 1px solid #ddd;
+  border-radius: 0 8px 8px 8px;
+  background: white;
+  padding: 16px;
+  margin: 12px auto;
+  width: 432px;
+}</style><style>.TeamPanel-module_root__n0lFd {
+  font-family: var(--insite-font-family);
+}
+
+.TeamPanel-module_header__FKLK1 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.TeamPanel-module_heading__OgHtZ {
+  color: #2b2933;
+  font-size: 24px;
+  line-height: 32px;
+  margin: 24px 0 24px 0;
+}
+
+.TeamPanel-module_addUser__zaayh {
+  color: #1c79a6;
+  font-size: 14px;
+  line-height: 16px;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.TeamPanel-module_addUser__zaayh:hover {
+  text-decoration: none;
+}
+
+.TeamPanel-module_hidden__RoXSB {
+  display: none;
+}
+
+.TeamPanel-module_intro__tJ7M7 {
+  font-size: 16px;
+  color: #2B2933;
+}</style><style>.UsersPanel-module_root__aUCKe {
+  box-sizing: border-box;
+  pointer-events: auto;
+  height: 100%;
+  overflow-y: scroll;
+  scrollbar-width: thin;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: stretch;
+  grid-column: 4/13;
+}
+@media (min-width: 1600px) {
+  .UsersPanel-module_root__aUCKe {
+    grid-column: 5/9;
+  }
+}
+.UsersPanel-module_teamPanel__r3UOO {
+  margin: 0 auto;
+  width: 432px;
+}
+.UsersPanel-module_loadingAnimation__yCQ9w {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  width: 100%;
+  margin: 24px 0;
+}
+.UsersPanel-module_loadingAnimation__yCQ9w.UsersPanel-module_hidden__BnGg0 {
+  opacity: 0;
+}</style><style>.InsiteContainer-module_root__bxSr- {
+  box-sizing: border-box;
+  pointer-events: none;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: flex-end;
+  align-items: stretch;
+  flex-direction: row;
+  position: fixed;
+  right: -480px;
+  top: 0;
+  height: 100vh;
+  font-family: var(--insite-font-family), sans-serif;
+  font-weight: normal;
+  font-size: 16px;
+  color: #333;
+  transition: right 0.6s cubic-bezier(0.25, 0.79, 0.15, 1) 0s;
+  will-change: right;
+}
+
+.InsiteContainer-module_open__83E9N {
+  right: 0;
+}
+
+.InsiteContainer-module_modeHome__6hoqH {
+  left: 0;
+  top: 0;
+  right: 0;
+  z-index: 9999;
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  margin: 0;
+  height: 100vh;
+  background-color: #f3f3f5;
+  transition: none;
+  will-change: unset;
+}</style><div class="InsiteContainer-module_root__bxSr- themes-module_insite__95WAb"><div class="InsiteActionButton-module_root__RkThg"><div class="InsiteActionButton-module_bubble__5sdAq InsiteActionButton-module_hideBubble__fg-gY"><i aria-hidden="true" class="InsiteIcons-module_root__6e7AJ InsiteActionButton-module_homeIcon__5yVya"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 10.2"><path fill="#fff" d="m4.8 10.2 0-3.6 2.4 0 0 3.6 3 0 0-4.8 1.8 0L6 0 0 5.4l1.8 0 0 4.8Z"></path></svg></i></div><div class="InsiteActionButton-module_inner__8o5UD"><div class="InsiteActionButton-module_pointer__FgGFh"><i aria-hidden="true" class="InsiteIcons-module_root__6e7AJ InsiteActionButton-module_iconInner__hqT3k"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 12"><path fill="currentColor" d="m2.411 5.998 5.295-4.537a.77.77 0 0 0 0-1.211 1.126 1.126 0 0 0-1.416 0l-6 5.141a.77.77 0 0 0-.029 1.182l6.024 5.176a1.13 1.13 0 0 0 1.416 0 .77.77 0 0 0 0-1.211Z"></path></svg></i></div><div class="InsiteActionButton-module_icon__PPdD4"><i aria-hidden="true" class="InsiteIcons-module_root__6e7AJ InsiteActionButton-module_iconInner__hqT3k"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 5.369 28"><path fill="#2f206a" d="m4.542 28.001-3.716 0a.583.583 0 0 1-.583-.583l0-19.619a.583.583 0 0 1 .583-.583l3.716 0a.583.583 0 0 1 .583.583l0 19.619a.583.583 0 0 1-.583.583"></path><path fill="#ed2f74" d="M5.369 2.686A2.685 2.685 0 1 1 2.684.001a2.685 2.685 0 0 1 2.685 2.685"></path></svg></i></div></div></div><div class="LoginPrompt-module_root__8uMCh"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 101.001 221.606" width="100"><path fill="#2f206a" d="m.502 213.605 0-67 20 0 0 18a8.01 8.01 0 0 0 8 8l4 0a8.01 8.01 0 0 0 8-8l0-18 20 0 0 18a8.01 8.01 0 0 0 8 8l4 0a8.01 8.01 0 0 0 8-8l0-18 20 0 0 67a8.01 8.01 0 0 1-8 8l-84 0a8.01 8.01 0 0 1-8-8"></path><path fill="#ed2f74" stroke="rgba(0,0,0,0)" d="m100.5 100.605-20 0 0 18a8 8 0 0 1-8 8l-4 0a8 8 0 0 1-8-8l0-18-20 0 0 18a8 8 0 0 1-8 8l-4 0a8 8 0 0 1-8-8l0-18-20 0 0-52 .042 0A50 50 0 0 1 1.984 38.56 49.99 49.99 0 0 1 62.543 2.087a50.02 50.02 0 0 1 37.919 46.517l.039 0Z"></path></svg><button class="Button-module_root__8RX49">Connect now</button></div></div></template></insite-container><script>(() => {
+        window.addoncropExtensions = window.addoncropExtensions || [];
+        window.addoncropExtensions.push({
+            mode: 'emulator',
+            emulator: 'Foxified',
+            extension: {
+                id: 44,
+                name: 'YouTube Downloader by Addoncrop',
+                version: '17.5.2',
+                date: 'March 22, 2024',
+            },
+            flixmateConnected: false,
+        });
+    })();</script></body></html>
